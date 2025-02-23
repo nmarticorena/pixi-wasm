@@ -8,14 +8,14 @@ channels = ["conda-forge"]
 
 [feature.wasm]
 # add the emscripten-forge channel to the list of channels
-channels = ["https://repo.mamba.pm/robostack-wasm", "https://repo.mamba.pm/emscripten-forge" ]
+
+channels = ["nmarticorena", "https://repo.mamba.pm/emscripten-forge" ]
 platforms = ["emscripten-wasm32"]
 
 [feature.wasm.dependencies]
 # we always need the xeus-python kernel for jupyterlite
 xeus-python = "*"
 python = { version = "3.11.*", build = "*_cpython" }
-# asyncio = "*"
 ros-humble-rclpy= "*"
 ros-humble-std-msgs= "*"
 ipycanvas = "*"
@@ -26,11 +26,12 @@ ros-humble-rcutils = "*"
 ros-humble-rosidl-parser = "*"
 ros-humble-wasm-cpp= "*"
 ros-humble-rmw-wasm-cpp= "*"
-ros2-distro-mutex="0.5.*" # 0.6 if nmarticorena
+ros2-distro-mutex="*" # 0.6 if nmarticorena
 ros-humble-test-wasm = "*"
 ros-humble-pybind11-vendor = "*"
 ros-humble-osrf-pycommon = "*"
 matplotlib="*"
+zlib="*"
 #  jupyterlab_server = "*"
 # add any extra packages from emscripten-forge here
 
@@ -53,7 +54,7 @@ inputs = ["pixi.lock", "files/"]
 
 # serve the jupyterlite app with a "simple server"
 [feature.host.tasks.start]
-cmd = "python -m http.server 8000 -d _output"
+cmd = "python -m http.server 8000 -d _output --cgi"
 depends-on = ["build"]
 
 [environments]

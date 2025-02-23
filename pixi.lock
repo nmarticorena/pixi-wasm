@@ -12,7 +12,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/linux-64/argon2-cffi-bindings-21.2.0-py313h536fd9c_5.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/arrow-1.3.0-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/attrs-25.1.0-pyh71513ae_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.13.1-pyha770c72_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.13.3-pyha770c72_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/bleach-6.2.0-pyh29332c3_4.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/bleach-with-css-6.2.0-h82add2a_4.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/brotli-python-1.1.0-py313h46c70d0_2.conda
@@ -44,7 +44,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/jsonschema-with-format-nongpl-4.23.0-hd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_client-8.6.3-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_core-5.7.2-pyh31011fe_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_events-0.11.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_events-0.12.0-pyh29332c3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server-2.15.0-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server_terminals-0.5.3-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.3.0-pyhd8ed1ab_2.conda
@@ -135,7 +135,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-64/argon2-cffi-bindings-21.2.0-py313ha37c0e0_5.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/arrow-1.3.0-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/attrs-25.1.0-pyh71513ae_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.13.1-pyha770c72_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.13.3-pyha770c72_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/bleach-6.2.0-pyh29332c3_4.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/bleach-with-css-6.2.0-h82add2a_4.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/brotli-python-1.1.0-py313h9ea2907_2.conda
@@ -167,7 +167,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/jsonschema-with-format-nongpl-4.23.0-hd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_client-8.6.3-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_core-5.7.2-pyh31011fe_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_events-0.11.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_events-0.12.0-pyh29332c3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server-2.15.0-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server_terminals-0.5.3-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.3.0-pyhd8ed1ab_2.conda
@@ -254,7 +254,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/argon2-cffi-bindings-21.2.0-py313h20a7fcf_5.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/arrow-1.3.0-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/attrs-25.1.0-pyh71513ae_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.13.1-pyha770c72_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.13.3-pyha770c72_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/bleach-6.2.0-pyh29332c3_4.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/bleach-with-css-6.2.0-h82add2a_4.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/brotli-python-1.1.0-py313h3579c5c_2.conda
@@ -286,7 +286,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/jsonschema-with-format-nongpl-4.23.0-hd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_client-8.6.3-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_core-5.7.2-pyh31011fe_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_events-0.11.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_events-0.12.0-pyh29332c3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server-2.15.0-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server_terminals-0.5.3-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.3.0-pyhd8ed1ab_2.conda
@@ -369,7 +369,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/zstd-1.5.6-hb46c0d2_0.conda
   wasm:
     channels:
-    - url: https://repo.mamba.pm/robostack-wasm/
+    - url: https://conda.anaconda.org/nmarticorena/
     - url: https://repo.mamba.pm/emscripten-forge/
     - url: https://conda.anaconda.org/conda-forge/
     packages:
@@ -381,15 +381,17 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/backcall-0.2.0-pyh9f0ad1d_0.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/catkin_pkg-1.0.0-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/comm-0.2.2-pyhd8ed1ab_1.conda
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/contourpy-1.3.1-py311h9bd5ed5_0.tar.bz2
+      - conda: https://conda.anaconda.org/conda-forge/noarch/cycler-0.12.1-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/decorator-5.1.1-pyhd8ed1ab_1.conda
       - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/docutils-0.18.1-py311had7285e_0.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/dynmsg-1.0-py311h5e4dfb3_6.tar.bz2
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/dynmsg-1.0-np126py311h3c4c5c5_6.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/empy-3.3.4-pyh9f0ad1d_1.tar.bz2
       - conda: https://repo.mamba.pm/emscripten-forge/noarch/emscripten-abi-3.1.45-h267e887_33.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/executing-2.1.0-pyhd8ed1ab_1.conda
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/fmt-8.1.1-he2bab0f_0.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/gmock-1.14.0-h7223423_0.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/gtest-1.14.0-he2bab0f_0.tar.bz2
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/fmt-11.1.3-h6e799ed_0.tar.bz2
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/fonttools-4.39.4-py311he9a3d86_0.tar.bz2
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/gtest-1.14.0-h5ef0a50_0.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-8.6.1-pyha770c72_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/importlib_resources-6.5.2-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/iniconfig-2.0.0-pyhd8ed1ab_1.conda
@@ -398,10 +400,14 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/ipywidgets-8.1.5-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jedi-0.19.2-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_widgets-3.0.13-pyhd8ed1ab_1.conda
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/kiwisolver-1.3.2-haac96bd_6.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/lark-parser-0.12.0-pyhd8ed1ab_1.conda
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/matplotlib-3.9.4-py311h1d374b6_0.tar.bz2
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/matplotlib-base-3.9.4-np125py311h6c65441_0.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/matplotlib-inline-0.1.7-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/more-itertools-10.6.0-pyhd8ed1ab_0.conda
-      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/numpy-2.2.2-py311hc8e14bb_0.tar.bz2
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/numpy-1.25.2-py311he9a3d86_2.tar.bz2
+      - conda: https://conda.anaconda.org/conda-forge/noarch/packaging-24.2-pyhd8ed1ab_2.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/parso-0.8.4-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pexpect-4.9.0-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pickleshare-0.7.5-pyhd8ed1ab_1004.conda
@@ -413,107 +419,109 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/py-1.11.0-pyhd8ed1ab_1.conda
       - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/pybind11-2.13.6-py311h8776317_0.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/pygments-2.19.1-pyhd8ed1ab_0.conda
-      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/pyjs-2.7.0-py311h514ae43_0.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/pyparsing-3.2.1-pyhd8ed1ab_0.conda
       - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/pytest-8.3.2-py311hf215df6_0.tar.bz2
       - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/python-3.11.3-h_bbba66e_25_cpython.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dateutil-2.9.0.post0-pyhff2d567_1.conda
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-action-msgs-1.2.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-core-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-definitions-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-dependencies-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-include-directories-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-interfaces-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-libraries-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-link-flags-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-targets-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-gen-version-h-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-gmock-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-gtest-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-include-directories-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-libraries-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-pytest-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-python-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-ros-0.10.0-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-target-dependencies-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-test-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-version-1.3.8-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-index-cpp-1.4.0-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-index-python-1.4.0-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-package-0.14.0-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-builtin-interfaces-1.2.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-domain-coordinator-0.10.0-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-example-interfaces-0.9.3-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-fastcdr-1.0.24-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-fastrtps-cmake-module-2.2.2-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-gmock-vendor-1.10.9004-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-gtest-vendor-1.10.9004-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-libstatistics-collector-1.3.1-py311hde20b13_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-libyaml-vendor-1.2.2-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-lifecycle-msgs-1.2.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-osrf-pycommon-2.0.2-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-pybind11-vendor-2.4.2-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-python-cmake-module-0.10.0-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-5.3.7-py311hde20b13_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-action-5.3.7-py311hde20b13_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-interfaces-1.2.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-lifecycle-5.3.7-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-logging-interface-2.3.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-logging-spdlog-2.3.1-py311h6009238_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-yaml-param-parser-5.3.7-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rclc-4.0.2-py311hde20b13_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rclcpp-16.0.8-py311hde20b13_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rclpy-3.3.12-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcpputils-2.4.2-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcutils-5.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rmw-6.1.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rmw-implementation-2.8.2-py311hde20b13_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rmw-implementation-cmake-6.1.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rmw-wasm-cpp-1.1.0-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ros-workspace-1.0.2-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosgraph-msgs-1.2.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-adapter-3.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-cli-3.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-cmake-3.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-default-runtime-1.2.0-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-generator-c-3.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-generator-cpp-3.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-generator-py-0.14.4-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-parser-3.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-runtime-c-3.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-runtime-cpp-3.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-c-2.0.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-cpp-2.0.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-fastrtps-c-2.2.2-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-fastrtps-cpp-2.2.2-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-interface-3.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-introspection-c-3.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-introspection-cpp-3.1.5-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rpyutils-0.2.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-spdlog-vendor-1.3.1-py311h6009238_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-statistics-msgs-1.2.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-std-msgs-4.2.3-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-test-wasm-1.0.0-py311h62abee3_1.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-tracetools-4.1.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-unique-identifier-msgs-2.2.1-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-wasm-cpp-1.0.0-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-yaml-cpp-vendor-8.0.2-py311h5e4dfb3_6.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros2-distro-mutex-0.5.0-humble.tar.bz2
+      - conda: https://conda.anaconda.org/conda-forge/noarch/pytz-2025.1-pyhd8ed1ab_0.conda
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/qhull-2020.2-h18da88b_0.tar.bz2
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-action-msgs-1.2.1-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-core-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-definitions-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-dependencies-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-include-directories-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-interfaces-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-libraries-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-link-flags-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-targets-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-gen-version-h-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-gmock-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-gtest-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-include-directories-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-libraries-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-pytest-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-python-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-ros-0.10.0-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-target-dependencies-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-test-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-version-1.3.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-index-cpp-1.4.0-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-index-python-1.4.0-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-package-0.14.0-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-builtin-interfaces-1.2.1-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-domain-coordinator-0.10.0-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-example-interfaces-0.9.3-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-fastcdr-1.0.24-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-fastrtps-cmake-module-2.2.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-gmock-vendor-1.10.9006-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-gtest-vendor-1.10.9006-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-libstatistics-collector-1.3.4-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-libyaml-vendor-1.2.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-lifecycle-msgs-1.2.1-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-osrf-pycommon-2.1.4-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-pybind11-vendor-2.4.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-python-cmake-module-0.10.0-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-5.3.9-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-action-5.3.9-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-interfaces-1.2.1-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-lifecycle-5.3.9-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-logging-interface-2.3.1-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-logging-spdlog-2.3.1-np126py311h1008649_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-yaml-param-parser-5.3.9-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rclc-4.0.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rclcpp-16.0.11-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rclpy-3.3.15-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcpputils-2.4.4-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcutils-5.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rmw-6.1.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rmw-implementation-2.8.4-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rmw-implementation-cmake-6.1.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rmw-wasm-cpp-1.1.0-np126py311h3c4c5c5_6.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ros-workspace-1.0.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosgraph-msgs-1.2.1-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-adapter-3.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-cli-3.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-cmake-3.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-default-runtime-1.2.0-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-generator-c-3.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-generator-cpp-3.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-generator-py-0.14.4-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-parser-3.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-runtime-c-3.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-runtime-cpp-3.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-c-2.0.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-cpp-2.0.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-fastrtps-c-2.2.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-fastrtps-cpp-2.2.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-interface-3.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-introspection-c-3.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-introspection-cpp-3.1.6-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rpyutils-0.2.1-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-spdlog-vendor-1.3.1-np126py311h1008649_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-statistics-msgs-1.2.1-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-std-msgs-4.2.4-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-test-wasm-1.0.0-np126py311h3c4c5c5_1.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-tracetools-4.1.1-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-unique-identifier-msgs-2.2.1-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-wasm-cpp-1.0.0-np126py311h3c4c5c5_6.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-yaml-cpp-vendor-8.0.2-np126py311h3c4c5c5_7.conda
+      - conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros2-distro-mutex-0.6.0-humble_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/setuptools-75.8.0-pyhff2d567_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/six-1.17.0-pyhd8ed1ab_0.conda
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/spdlog-1.11.0-h32a6373_2.tar.bz2
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/spdlog-1.15.0-ha116a9f_2.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/stack_data-0.6.3-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/traitlets-5.14.3-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/typing_extensions-4.12.2-pyha770c72_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/wcwidth-0.2.13-pyhd8ed1ab_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/widgetsnbextension-4.0.13-pyhd8ed1ab_1.conda
-      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/xeus-python-0.17.2-h73c07d9_0.tar.bz2
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/xeus-python-0.16.0-h1be4ea2_3.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/xeus-python-shell-0.6.3-pyhff2d567_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/xeus-python-shell-raw-0.6.3-pyhd8ed1ab_1.conda
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/yaml-0.2.5-h8f0b7e7_0.tar.bz2
-      - conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/yaml-cpp-0.7.0-h8f0b7e7_0.tar.bz2
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/yaml-0.2.5-ha5b3b25_0.tar.bz2
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/yaml-cpp-0.7.0-ha5b3b25_0.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/zipp-3.21.0-pyhd8ed1ab_1.conda
+      - conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/zlib-1.2.13-h12b8776_2.tar.bz2
 packages:
 - conda: https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2
   sha256: fe51de6107f9edc7aa4f786a70f4a883943bc9d39b3bb7307c04c41410990726
@@ -659,17 +667,17 @@ packages:
   license_family: BSD
   size: 13705
   timestamp: 1592338491389
-- conda: https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.13.1-pyha770c72_0.conda
-  sha256: f27f8399c2587143128d101729c0d09ee0610f24d47c5f9798d47abd4be4ae2c
-  md5: 27919cdfaf859d161bc4a5552246b964
+- conda: https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.13.3-pyha770c72_0.conda
+  sha256: 4ce42860292a57867cfc81a5d261fb9886fc709a34eca52164cc8bbf6d03de9f
+  md5: 373374a3ed20141090504031dc7b693e
   depends:
   - python >=3.9
   - soupsieve >=1.2
   - typing-extensions
   license: MIT
   license_family: MIT
-  size: 145124
-  timestamp: 1738599697363
+  size: 145482
+  timestamp: 1738740460562
 - conda: https://conda.anaconda.org/conda-forge/noarch/bleach-6.2.0-pyh29332c3_4.conda
   sha256: a05971bb80cca50ce9977aad3f7fc053e54ea7d5321523efc7b9a6e12901d3cd
   md5: f0b4c8e370446ef89797608d60a564b3
@@ -900,6 +908,23 @@ packages:
   license_family: BSD
   size: 12103
   timestamp: 1733503053903
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/contourpy-1.3.1-py311h9bd5ed5_0.tar.bz2
+  sha256: 9eb0ef11a0459f1bc2a6c69ceaea691bf4b81a769cebb593bca6a93120f85f49
+  md5: 0115d1d5f6b40ab75d5906a545917062
+  depends:
+  - numpy
+  license: BSD-3-Clause
+  size: 156675
+  timestamp: 1731633131219
+- conda: https://conda.anaconda.org/conda-forge/noarch/cycler-0.12.1-pyhd8ed1ab_1.conda
+  sha256: 9827efa891e507a91a8a2acf64e210d2aff394e1cde432ad08e1f8c66b12293c
+  md5: 44600c4667a319d67dbe0681fc0bc833
+  depends:
+  - python >=3.9
+  license: BSD-3-Clause
+  license_family: BSD
+  size: 13399
+  timestamp: 1733332563512
 - conda: https://conda.anaconda.org/conda-forge/noarch/decorator-5.1.1-pyhd8ed1ab_1.conda
   sha256: 84e5120c97502a3785e8c3241c3bf51f64b4d445f13b4d2445db00d9816fe479
   md5: d622d8d7ee8868870f9cbe259f381181
@@ -936,20 +961,22 @@ packages:
   license_family: MIT
   size: 73790
   timestamp: 1734618648157
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/dynmsg-1.0-py311h5e4dfb3_6.tar.bz2
-  sha256: b80f9ae7a22aa38c25fe283493cc72d835d0b17e405dbf16423dedf2480db023
-  md5: 0b0b7ce07d991f7b6489ace4af44d657
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/dynmsg-1.0-np126py311h3c4c5c5_6.conda
+  sha256: 0020cfb8f73aa4d257c887c3764220cac681b9f2a039d2a370471a8fe7ef718c
+  md5: 349f184291577aae06e703a9e133acc8
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-rosidl-runtime-c
   - ros-humble-rosidl-runtime-cpp
   - ros-humble-rosidl-typesupport-introspection-c
   - ros-humble-rosidl-typesupport-introspection-cpp
-  - ros2-distro-mutex 0.5.* humble
-  license: Apache License 2.0
-  size: 533503
-  timestamp: 1712278034316
+  - ros-humble-yaml-cpp-vendor
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
+  license: Apache-2.0
+  size: 444976
+  timestamp: 1740114567559
 - conda: https://conda.anaconda.org/conda-forge/noarch/empack-5.0.5-pyhd8ed1ab_0.conda
   sha256: a048ec154e491cdac06712b4476cb491b241fcfedb6caedc125fea0a301608fc
   md5: 2bb61739b4864c9fea7019ca5fe81e79
@@ -996,15 +1023,24 @@ packages:
   license_family: MIT
   size: 28348
   timestamp: 1733569440265
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/fmt-8.1.1-he2bab0f_0.tar.bz2
-  sha256: 9811b4565aadda66aeab6f0f6d36eaebcdeefaf61cc652c451c6eac28a032b27
-  md5: 55c93105643b03b7391a1a72adfaf872
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/fmt-11.1.3-h6e799ed_0.tar.bz2
+  sha256: 0e8063ca83b276b635ea8d9bb7a858e8439278cb935f3b1abbcc0b5f025a0719
+  md5: 12e6ca4acee1f47f5f8bd04858146d78
   depends:
-  - emscripten-abi 3.1.45.*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
   license: MIT
   license_family: MIT
-  size: 166919
-  timestamp: 1703589367094
+  size: 181220
+  timestamp: 1738679283150
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/fonttools-4.39.4-py311he9a3d86_0.tar.bz2
+  sha256: 3246401f1ab06d8814ed1fbd9c4c6826fe8d027ea0dbd20589b03c4d9b30050e
+  md5: 9a8cea842145e18c2b9fd442f70fc72b
+  depends:
+  - emscripten-abi 3.1.45.*
+  - python
+  license: MIT
+  size: 2843980
+  timestamp: 1695634662366
 - conda: https://conda.anaconda.org/conda-forge/noarch/fqdn-1.5.1-pyhd8ed1ab_1.conda
   sha256: 2509992ec2fd38ab27c7cdb42cf6cadc566a1cc0d1021a2673475d9fa87c6276
   md5: d3549fd50d450b6d9e7dddff25dd2110
@@ -1015,22 +1051,15 @@ packages:
   license_family: MOZILLA
   size: 16705
   timestamp: 1733327494780
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/gmock-1.14.0-h7223423_0.tar.bz2
-  sha256: 9fdc6dc5c490f12c0c1bbb6bded6e8f8779eedc52e5ca2b3fbc9f82f4ef94c4e
-  md5: 7f4773fcf83470d8719589feccdcb4c0
-  depends:
-  - gtest
-  size: 4586
-  timestamp: 1703589531939
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/gtest-1.14.0-he2bab0f_0.tar.bz2
-  sha256: b8c275361e85d8bb9f11bef03e0a79170c388477cfe672ed3011bb16775a484b
-  md5: 91656dbded2ee6252c650230ac2169e9
-  depends:
-  - emscripten-abi 3.1.45.*
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/gtest-1.14.0-h5ef0a50_0.tar.bz2
+  sha256: 31c1c5b5072b3d70c9859372d52f8a865e0e3f19a416d2fe163bc3dd11bc1617
+  md5: 8293c8e58ed57e63b791d21953b05be2
   constrains:
-  - gmock 1.14.0*
-  size: 388157
-  timestamp: 1703589529921
+  - gmock ==1.14.0
+  license: BSD-3-Clause
+  license_family: BSD
+  size: 392944
+  timestamp: 1718361289056
 - conda: https://conda.anaconda.org/conda-forge/noarch/h2-4.2.0-pyhd8ed1ab_0.conda
   sha256: 0aa1cdc67a9fe75ea95b5644b734a756200d6ec9d0dff66530aec3d1c1e9df75
   md5: b4754fb1bdcb70c8fd54f918301582c6
@@ -1275,9 +1304,9 @@ packages:
   license_family: BSD
   size: 57671
   timestamp: 1727163547058
-- conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_events-0.11.0-pyhd8ed1ab_0.conda
-  sha256: eeb32aa58d37b130387628d5c151092f6d3fcf0a6964294bef06d6bac117f3c4
-  md5: 2d8876ca6bda213622dfbc3d1da56ecb
+- conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_events-0.12.0-pyh29332c3_0.conda
+  sha256: 37e6ac3ccf7afcc730c3b93cb91a13b9ae827fd306f35dd28f958a74a14878b5
+  md5: f56000b36f09ab7533877e695e4e8cb0
   depends:
   - jsonschema-with-format-nongpl >=4.18.0
   - packaging
@@ -1288,10 +1317,11 @@ packages:
   - rfc3339-validator
   - rfc3986-validator >=0.1.1
   - traitlets >=5.3
+  - python
   license: BSD-3-Clause
   license_family: BSD
-  size: 22160
-  timestamp: 1734531779868
+  size: 23647
+  timestamp: 1738765986736
 - conda: https://conda.anaconda.org/conda-forge/noarch/jupyter_server-2.15.0-pyhd8ed1ab_0.conda
   sha256: be5f9774065d94c4a988f53812b83b67618bec33fcaaa005a98067d506613f8a
   md5: 6ba8c206b5c6f52b82435056cf74ee46
@@ -1386,6 +1416,15 @@ packages:
   license: LGPL-2.1-or-later
   size: 117831
   timestamp: 1646151697040
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/kiwisolver-1.3.2-haac96bd_6.tar.bz2
+  sha256: e738671186817073133c89b768a360be5812fb071a388b1b5faf4be6f21cb79d
+  md5: feca345a1fd7785782ee4fff78df4e86
+  depends:
+  - emscripten-abi 3.1.45.*
+  license: BSD-3-Clause
+  license_family: BSD
+  size: 33832
+  timestamp: 1695284124426
 - conda: https://conda.anaconda.org/conda-forge/linux-64/krb5-1.21.3-h659f571_0.conda
   sha256: 99df692f7a8a5c27cd14b5fb1374ee55e756631b9c3d659ed3ee60830249b238
   md5: 3f43953b7d3fb3aaa1d0d0723d91e368
@@ -1803,6 +1842,31 @@ packages:
   license_family: BSD
   size: 24757
   timestamp: 1733219916634
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/matplotlib-3.9.4-py311h1d374b6_0.tar.bz2
+  sha256: 11f2a2ab8ab4538757b91e7ca4c0b9c79767099f739aa4b8c1d38e9a96603e05
+  md5: dc17502c9758f7f6f84d0e56a9a1dd04
+  depends:
+  - python 3.11.* *_cpython
+  - matplotlib-base ==3.9.4 np125py311h6c65441_0
+  size: 2072129
+  timestamp: 1734175402777
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/matplotlib-base-3.9.4-np125py311h6c65441_0.tar.bz2
+  sha256: d3e320506ab37a88c6e70db7ef09fd198bda20fea24dec89613a7eec0be2e8d4
+  md5: a3a6128bc3503bd665855c156bb0abbd
+  depends:
+  - contourpy
+  - cycler
+  - fonttools
+  - kiwisolver
+  - numpy 1.25.2.*
+  - packaging
+  - pillow
+  - pyparsing
+  - python-dateutil
+  - pytz
+  - qhull >=2020.2,<2020.3.0a0
+  size: 12551694
+  timestamp: 1734175402777
 - conda: https://conda.anaconda.org/conda-forge/noarch/matplotlib-inline-0.1.7-pyhd8ed1ab_1.conda
   sha256: 69b7dc7131703d3d60da9b0faa6dd8acbf6f6c396224cf6aef3e855b8c0c41c6
   md5: af6ab708897df59bd6e7283ceab1b56b
@@ -1935,15 +1999,15 @@ packages:
   license_family: BSD
   size: 1265008
   timestamp: 1731521053408
-- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/numpy-2.2.2-py311hc8e14bb_0.tar.bz2
-  sha256: 759482ca2f5a063cb124024fbc59827cc7384d101673d716d3922afa45ad64dc
-  md5: 83e7980030c62e728a29ce4335830100
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/numpy-1.25.2-py311he9a3d86_2.tar.bz2
+  sha256: 0e0ac237f0fd837961988eb4e136325b2a9eaee7c0eec37e7329e56d602e96b5
+  md5: a06c7ed916ce986d8ea33b52d79688c0
   depends:
-  - python 3.11.* *_cpython
-  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - emscripten-abi 3.1.45.*
+  - python
   license: BSD-3-Clause
-  size: 7497708
-  timestamp: 1737461350855
+  size: 7681101
+  timestamp: 1695297686207
 - conda: https://conda.anaconda.org/conda-forge/linux-64/openssl-3.4.0-h7b32b05_1.conda
   sha256: f62f6bca4a33ca5109b6d571b052a394d836956d21b25b7ffd03376abf7a481f
   md5: 4ce6875f75469b2757a65e10a5d05e31
@@ -2134,15 +2198,6 @@ packages:
   license_family: BSD
   size: 888600
   timestamp: 1736243563082
-- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/pyjs-2.7.0-py311h514ae43_0.tar.bz2
-  sha256: 79c7ddce08257de61245f84a25f95a385d8f10ea0d835fcd55e872875deb2a27
-  md5: 43741c4f1f9a0a685bf706631f6c92bc
-  depends:
-  - emscripten-abi >=3.1.45,<3.1.46.0a0
-  license: BSD-3-Clause
-  license_family: BSD
-  size: 5096366
-  timestamp: 1738055417834
 - conda: https://conda.anaconda.org/conda-forge/osx-64/pyobjc-core-11.0-py313h19a8f7f_0.conda
   sha256: 953b277bc2e1d9c873bdf9192b4a304e260c79fc1a2bf4fb5e3272806d1aceb1
   md5: 849d74f034a029b91edbdcb1fd3c8c86
@@ -2367,6 +2422,15 @@ packages:
   license_family: BSD
   size: 6322
   timestamp: 1723823058879
+- conda: https://conda.anaconda.org/conda-forge/noarch/pytz-2025.1-pyhd8ed1ab_0.conda
+  sha256: bc35995ecbd38693567fc143d3e6008e53cff900b453412cae48ffa535f25d1f
+  md5: d451ccded808abf6511f0a2ac9bb9dcc
+  depends:
+  - python >=3.9
+  license: MIT
+  license_family: MIT
+  size: 186859
+  timestamp: 1738317649432
 - conda: https://conda.anaconda.org/conda-forge/linux-64/pyyaml-6.0.2-py313h8060acc_2.conda
   sha256: 6826217690cfe92d6d49cdeedb6d63ab32f51107105d6a459d30052a467037a0
   md5: 50992ba61a8a1f8c2d346168ae1c86df
@@ -2449,6 +2513,12 @@ packages:
   license_family: BSD
   size: 369858
   timestamp: 1738271727103
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/qhull-2020.2-h18da88b_0.tar.bz2
+  sha256: 5d564478b669b6cfd1cf7d5ff2e3f05042802a67fc6cea589a2bc074563742e4
+  md5: 73a64c161a5213470f6b86f9dbe42bd1
+  license: LicenseRef-Qhull
+  size: 3843708
+  timestamp: 1721161259604
 - conda: https://conda.anaconda.org/conda-forge/linux-64/readline-8.2-h8228510_1.conda
   sha256: 5435cf39d039387fbdc977b0a762357ea909a7694d9528ab40f005e9208744d7
   md5: 47d31b792659ce70f470b5c82fdfb7a4
@@ -2536,25 +2606,25 @@ packages:
   license_family: MIT
   size: 185646
   timestamp: 1733342347277
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-action-msgs-1.2.1-py311h5e4dfb3_6.tar.bz2
-  sha256: b5eaf3af54ddcd4fd1d4a64e65c80fc3341e822d33d703483e47db723d137d85
-  md5: ead4db5cefb80df4faf636f263c4a9ff
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-action-msgs-1.2.1-np126py311h3c4c5c5_7.conda
+  sha256: 124befdc9b1c8cb34ef6ec742226a81cec316ca44693c987c326a9eb01972654
+  md5: 15eeed986bffaad38b0b7c1680134559
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-builtin-interfaces
   - ros-humble-ros-workspace
   - ros-humble-rosidl-default-runtime
   - ros-humble-unique-identifier-msgs
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 11519911
-  timestamp: 1712269631358
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: b839192ac12f398374aa667fe96e28df8b5a53f56ff95323c7310e527c62cf76
-  md5: e6b0bc98308992e0e762f08f09eeda59
+  size: 293717
+  timestamp: 1740115130072
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 21586e7e73f53b4dff56ec477cdb32cd81bc57e75e3f4c22c32e60ca8da1db50
+  md5: 2fc44c5282f22e75d42e02ae35709e92
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ament-cmake-export-definitions
@@ -2571,205 +2641,221 @@ packages:
   - ros-humble-ament-cmake-test
   - ros-humble-ament-cmake-version
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12501
-  timestamp: 1712136250012
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-core-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: f98bd0747019510f2d108cbc30c6d8bfbaf08b966bff887f11b0f768b327d9e8
-  md5: c49bf2ba494b1e1cd90b7aafd4d25018
+  size: 23211
+  timestamp: 1740112882675
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-core-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: dd855cae657b22ec6138707054d5ba152a39dd14d534af52bab07fb042e77812
+  md5: 190eb1ab4e86fd15e8b439faa16a1a35
   depends:
   - catkin_pkg
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-package
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 35400
-  timestamp: 1712134055176
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-definitions-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: 389f816974ddba76be798ff8e2034b066e60434ff248287e00d8f52d5f0273be
-  md5: c0873986357ab83ce4c176990b66cb41
+  size: 45143
+  timestamp: 1740112240372
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-definitions-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 690560b80a125d2b049fafbdd9a3246bfbaff5c729a5b76762b1babe7e62f846
+  md5: d0a0f22f02800779b08a174810c9bee0
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12513
-  timestamp: 1712134391807
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-dependencies-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: 3fe7c6b55d8da943c569337659719198ddde2591c5e745e23bd610efafdf1010
-  md5: e24f3159d74a13190a5937b3a5d04fb1
+  size: 22080
+  timestamp: 1740112414422
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-dependencies-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 4e6054b5b0db451fc597691ca6ede85b5fc832aacaed12f5e460e3520c46bb46
+  md5: 81c3219ec44fc411e856c6b05ce65913
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ament-cmake-libraries
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 13591
-  timestamp: 1712135049694
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-include-directories-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: 2af43ffbc6228e81a7324f4ddd6d5d26a2bbb8c3fc13821a8b72cabb7d5adb3a
-  md5: 766909db13f689c168f9a93b359b6462
+  size: 23553
+  timestamp: 1740112483963
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-include-directories-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: a3f0150aa4758c9efa470e44d5fa59716089504dff8a716fd34448c980fb61c4
+  md5: 0e75418a35d9e91942ba44cbf5f0db2c
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12861
-  timestamp: 1712134372484
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-interfaces-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: bed264932907387f80ecbb873646d1fbb6c5da1675420bf27bb26ec343e9b378
-  md5: 1d0b404338a900038f6277bcf294723b
+  size: 22482
+  timestamp: 1740112408254
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-interfaces-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 7b475092373e2575d23f115e70ede6880d7ff22c01ec346aa7e41442d5552481
+  md5: bae63f59588dacc8ac6a308502c11cc1
   depends:
-  - emscripten-abi 3.1.45.*
-  - python
-  - ros-humble-ament-cmake-core
-  - ros-humble-ament-cmake-export-libraries
-  - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
-  license: BSD-3-Clause
-  size: 13025
-  timestamp: 1712135174241
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-libraries-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: 82674809c2f11c9d718b986db612d2c6c274c0898e5fa2a266893ed03445b04e
-  md5: f3ae69850236dcdce263c5a7f2cc2300
-  depends:
-  - emscripten-abi 3.1.45.*
-  - python
-  - ros-humble-ament-cmake-core
-  - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
-  license: BSD-3-Clause
-  size: 14533
-  timestamp: 1712134313326
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-link-flags-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: 40aa10df371d4d67055113ba7ac8622bed2411498f8d1f1d32c3596a9707a7a3
-  md5: d7c0bdd37026d847503e4c98230c46ce
-  depends:
-  - emscripten-abi 3.1.45.*
-  - python
-  - ros-humble-ament-cmake-core
-  - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
-  license: BSD-3-Clause
-  size: 12476
-  timestamp: 1712134352902
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-export-targets-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: 44c14b57fa4558f9b8c6fd39b5d4c670095cca59492c13875f097d9eb2359004
-  md5: a7b38b6b2f7757b03230211b3e954b52
-  depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ament-cmake-export-libraries
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12981
-  timestamp: 1712135154296
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-gen-version-h-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: 5bda9c42b3ec93be0cd9297eae6e1e14b7b6299ef07f1c4d11811028726292ed
-  md5: ed247717ef1370793b3da6bd608cc0e9
+  size: 22714
+  timestamp: 1740112587785
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-libraries-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 3a7a528a0676cb0180f3685b8887bd914636354e23b644264e1f5bd76b0acb8d
+  md5: f510dd3dfce2f816f902c900bfa091e3
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 14886
-  timestamp: 1712135714542
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-gmock-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: 896601dddb4c5f9b05e5efe07db5fe7ef5521d9f35fabe0cbed02f74046701b6
-  md5: ff9ceb182b52ece6a45e20cfe0b20850
+  size: 24023
+  timestamp: 1740112349471
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-link-flags-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: c2abd4c4df2b8830244d9cc4791fea3a17f5f6d145faba09666440a95bc06451
+  md5: 3a0da6438c94768e5455f5168e6ef3a0
   depends:
-  - emscripten-abi 3.1.45.*
-  - gmock
+  - python
+  - ros-humble-ament-cmake-core
+  - ros-humble-ros-workspace
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
+  license: BSD-3-Clause
+  size: 22043
+  timestamp: 1740112402360
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-export-targets-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 69a7dce79f7986e46cfb6bb7c6940e4431a580850b9768ad0f0be2e2fdf5d6e3
+  md5: 2eb1b8e3e4d35aef169d63ae992bf344
+  depends:
+  - python
+  - ros-humble-ament-cmake-core
+  - ros-humble-ament-cmake-export-libraries
+  - ros-humble-ros-workspace
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
+  license: BSD-3-Clause
+  size: 22824
+  timestamp: 1740112580124
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-gen-version-h-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 4618d72f29a6f2337efd06eeae2ef797778b2e97be3ce00e54e33c224cb2d05a
+  md5: f943332c5c53b573f1919d4c748907af
+  depends:
+  - python
+  - ros-humble-ament-cmake-core
+  - ros-humble-ros-workspace
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
+  license: BSD-3-Clause
+  size: 24767
+  timestamp: 1740112773030
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-gmock-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: b49fbfedf6af91a14a76b7f15d5c2038e2306dce18d95b94850a0b07ace279ea
+  md5: 48594e4b0006e781fc52f948cfb73f9f
+  depends:
   - python
   - ros-humble-ament-cmake-gtest
   - ros-humble-ament-cmake-test
   - ros-humble-gmock-vendor
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 14271
-  timestamp: 1712135735158
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-gtest-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: fbfdfe2bb456b2f93b07cc132c0dc711ee5c7d39a64d806016d458b9edf18b2f
-  md5: 93e6c5d46a4ec2ecc00dbdcb38becb33
+  size: 24248
+  timestamp: 1740112841179
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-gtest-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 9ea55c2d1cd8966327a3bf7853eaa3288da64858b23eebe1f38bbcaa8ce39ec6
+  md5: 9bc9f403c9d92728a024573a735fefaa
   depends:
-  - emscripten-abi 3.1.45.*
   - gtest
   - python
   - ros-humble-ament-cmake-test
   - ros-humble-gtest-vendor
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - gtest >=1.14.0,<1.14.1
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 14989
-  timestamp: 1712135441374
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-include-directories-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: a3eef3edb96fd2f52f6aa3077c1ca4043ed024e7f1dc1aa6826832bb2bfc33bb
-  md5: 7440ff80cdfc58bdde130167e630bb99
+  size: 24603
+  timestamp: 1740112635178
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-include-directories-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 40c3869c8a610052e4096f254fee4b57f20b2ce4165321fcdb3042f002776264
+  md5: 98b2ad3dccc481f6cafb8cfe176588f8
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12411
-  timestamp: 1712134329768
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-libraries-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: c813359a4f17a0b00d5f0798dfafbf37f6bd2c9a562e10cd20373798c46edcd0
-  md5: 1147efacc68c4e6fabf4fc0fd389e643
+  size: 21942
+  timestamp: 1740112417734
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-libraries-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: b684549bf67f3a3d18769d6d11a9b58e76cdf56bc56ca6beb8a155ac5691faa3
+  md5: 05ea848a626615ab91121735133075ec
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12762
-  timestamp: 1712134310587
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-pytest-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: 7a002acc147053305cc9b3b3a1e0a06885c6f1568adf86e3355fe1443a705252
-  md5: 08c21943820ab8e6493680dc8722a609
+  size: 21642
+  timestamp: 1740112412378
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-pytest-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: fafbd9c83901c5f4d46fcc2f719e06d4366486c632a2ce8e24ffab37523b458d
+  md5: 241bd10348f96745ae5850b301624979
   depends:
-  - emscripten-abi 3.1.45.*
   - pytest
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ament-cmake-test
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 14432
-  timestamp: 1712135504259
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-python-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: a6e531d43b017052d9182884e7b4655f69bf3a2f47d22b5a21e7537d271cec02
-  md5: 198ac908817f835383702a61617395c2
+  size: 24636
+  timestamp: 1740112704489
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-python-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: ab6129e6c4704a2b51a7209acfeb3b23bc42a522d5ba3f1b041c2fb96e50638e
+  md5: 1dcb352d10c78c3616b5462030657ca2
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 14752
-  timestamp: 1712134279210
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-ros-0.10.0-py311h5e4dfb3_6.tar.bz2
-  sha256: f58445c7fa93f3b34d8692e1c20773c711c3c9da2e64fdae3498a4979201e330
-  md5: 58d9a725371df6e73712b1e9b2d8008c
+  size: 24578
+  timestamp: 1740112348332
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-ros-0.10.0-np126py311h3c4c5c5_7.conda
+  sha256: 360ae1b98b679ee580f506c4db06d649166add1f98769f23770be6cbbdd4945b
+  md5: 60ed841df8917788276b43920850d9ec
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake
   - ros-humble-ament-cmake-gmock
@@ -2777,169 +2863,183 @@ packages:
   - ros-humble-ament-cmake-pytest
   - ros-humble-domain-coordinator
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 15616
-  timestamp: 1712137618356
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-target-dependencies-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: 9bccec1484977756d572920d5deb38384655d28271cfaaeb86c138453176571f
-  md5: 2baa2d8a1d554d6d16def662e9d68d1d
+  size: 30028
+  timestamp: 1740113600762
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-target-dependencies-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 91940f8a6c7eba9182b23d5e0ea7622f526fb42258e767f15459844316eb2d0f
+  md5: 50d6e63a114b11806cbd730f490e8eab
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ament-cmake-include-directories
   - ros-humble-ament-cmake-libraries
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 13900
-  timestamp: 1712135132779
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-test-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: c893446f2ce7b86ec0db22871c998b8eed227cf3883ed38dde45439cba699e81
-  md5: 7cd8f38dc5bb05e74fdabb9101374f5c
+  size: 23619
+  timestamp: 1740112572595
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-test-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 83980269abbc19d3caa68e05f739d8d1c0619d85d513a7e508fb935df007b64b
+  md5: 2e81695964620b2de09daea223828b0f
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 27259
-  timestamp: 1712135111036
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-cmake-version-1.3.8-py311h5e4dfb3_6.tar.bz2
-  sha256: 04f46110aeabe188a3ac48baab8dedd2dac9b074eb8922da0eb01b118e12ba90
-  md5: 77907b6e028cc8536ba874b5e37727e5
+  size: 36218
+  timestamp: 1740112484772
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-cmake-version-1.3.11-np126py311h3c4c5c5_7.conda
+  sha256: 363de27eec4c188c0e652e2b3a5de7263e99ff04e8494d37c2679d86ca9591f0
+  md5: d08a6093fe4b66fec43809cad5f24437
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12259
-  timestamp: 1712134333621
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-index-cpp-1.4.0-py311h5e4dfb3_6.tar.bz2
-  sha256: 2bc73399335051b17c6f0b41d05a9e5071121150753067a05a55931c6b2834b6
-  md5: c413e606043a1d7ddf55c8e0b57055cf
+  size: 21807
+  timestamp: 1740112396631
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-index-cpp-1.4.0-np126py311h3c4c5c5_7.conda
+  sha256: 89e937e1fe9955c894dded82d5231c84eaca593fddd845ab018c6085367ae891
+  md5: 4d0603a6ec8d681595c3cb2ef8b7c184
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 163137
-  timestamp: 1712188389190
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-index-python-1.4.0-py311h5e4dfb3_6.tar.bz2
-  sha256: ca49681f2ae0f9138056a2f2a6dbfa1d815428e661fabc89aff50e65801e061a
-  md5: fa0148c297f87fba3328c1cb51705b08
+  size: 167645
+  timestamp: 1740113593292
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-index-python-1.4.0-np126py311h3c4c5c5_7.conda
+  sha256: 46b3317496ab5b9a85b25c0fc972d4da59789369f4a646d9d314a43381936e52
+  md5: 8a3d07bbbe4928d6b741eaa22b6f6e76
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 19561
-  timestamp: 1712136307273
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ament-package-0.14.0-py311h5e4dfb3_6.tar.bz2
-  sha256: 11401e3d603c874d0d3a2641159f509b0fa5a905d8b5c9c5d51cf6e90e6320ba
-  md5: 0edb192fcf2fa3ca0642d40f872a0c05
+  size: 28665
+  timestamp: 1740112949355
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ament-package-0.14.0-np126py311h3c4c5c5_7.conda
+  sha256: 3e93e561ce3520ee4b000c612086fe0f8daa06497b8a81aaff9d043cffb024ae
+  md5: 1de070532c7b30de60cf5b4b93d9ac4e
   depends:
-  - emscripten-abi 3.1.45.*
   - importlib-metadata
   - importlib_resources
   - python
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
   - setuptools
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 39372
-  timestamp: 1712133254079
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-builtin-interfaces-1.2.1-py311h5e4dfb3_6.tar.bz2
-  sha256: 6f248868b3c3b945895194ad48f217822e42aa6754cd253e37d1cae0b2214869
-  md5: 9775e8de627310e67f042fc11a3eb922
+  size: 48055
+  timestamp: 1740112158892
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-builtin-interfaces-1.2.1-np126py311h3c4c5c5_7.conda
+  sha256: cee826ba1cb0817daee57be23afde7afb12dd3a71f33eab7dd5cffbe3ac13467
+  md5: f3401bc0deff5a1fb3e90bdab336e206
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
   - ros-humble-rosidl-default-runtime
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 11267840
-  timestamp: 1712269323507
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-domain-coordinator-0.10.0-py311h5e4dfb3_6.tar.bz2
-  sha256: 1a25d55eed2ca0e5f25e81ae1528b19de5f115950168d9066d6d4055f4fe3161
-  md5: fa79c6057964f05c3c990cd5664ffd90
+  size: 115520
+  timestamp: 1740115045758
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-domain-coordinator-0.10.0-np126py311h3c4c5c5_7.conda
+  sha256: df3422bb21d38621aafce481ab3085159036fe6a2e842b2de96545fd14fdc5b3
+  md5: fac7f93303f93a33df7f2d8a3b05581c
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 10944
-  timestamp: 1712135899937
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-example-interfaces-0.9.3-py311h5e4dfb3_6.tar.bz2
-  sha256: f17fb247ed2846c83331ce387faf18174c8a52819bd371411e9250709de6e464
-  md5: 8ae8c3ec067898c63006ede97bda6850
+  size: 20615
+  timestamp: 1740112956256
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-example-interfaces-0.9.3-np126py311h3c4c5c5_7.conda
+  sha256: 5ddebf4229e019bd6c385649fe044e5fba43ad8ae10fd354a688280b78a65100
+  md5: bb547673d84a40c5756b40ac1bdaacc1
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-action-msgs
   - ros-humble-ros-workspace
   - ros-humble-rosidl-default-runtime
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12711314
-  timestamp: 1712270355329
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-fastcdr-1.0.24-py311h5e4dfb3_6.tar.bz2
-  sha256: 907c403f3eb90bae7b079758c5641797c8eb78c8f7b8019a7243f533ef149ede
-  md5: 9c1e016b55c2fd7ac51ea62aa7c9ac4e
+  size: 1111499
+  timestamp: 1740115523659
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-fastcdr-1.0.24-np126py311h3c4c5c5_7.conda
+  sha256: d29e68829f92ea3d6a03e91967965cdadf6648d67503439fc905348e8afda77a
+  md5: f4551122711add0da5eb81e109eaef18
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 167040
-  timestamp: 1712134284301
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-fastrtps-cmake-module-2.2.2-py311h5e4dfb3_6.tar.bz2
-  sha256: 33cc0bcf93ac7016f9caa2f24b580795fea32a44cebd04d8bcb20e5ca1dd24b6
-  md5: 3d1411c8657070935293d7a0898d8e95
+  size: 46643
+  timestamp: 1740112350709
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-fastrtps-cmake-module-2.2.2-np126py311h3c4c5c5_7.conda
+  sha256: c0ccefbd98920f58918267255afbf34c44c2fb76b0cb98eae6fcdb1f5878691b
+  md5: 4b5978942c94f2a73c6673955f882906
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12742
-  timestamp: 1712188354689
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-gmock-vendor-1.10.9004-py311h5e4dfb3_6.tar.bz2
-  sha256: 1e86a0826c3b06b3090773b0d54ac3073f67c13999ad653896b3c91445c2b613
-  md5: d033af97c4845f1ec3a6d22a69ae50b3
+  size: 26156
+  timestamp: 1740113627115
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-gmock-vendor-1.10.9006-np126py311h3c4c5c5_7.conda
+  sha256: b9d7f0ee9d8b14bc93a0594f2e29181b5c6cd87eab51d72c8ecdc2fe87703398
+  md5: c9a4f5e0e1affcae9eca4d602dcbe573
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-gtest-vendor
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 100145
-  timestamp: 1712135062759
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-gtest-vendor-1.10.9004-py311h5e4dfb3_6.tar.bz2
-  sha256: 05b7e9e73ee42e8e30ed0b0f269123d99b4581c5e3633a13ea84745d625f5ad1
-  md5: 6d497f2864e2fcc91e9c6af8be08bb88
+  size: 113894
+  timestamp: 1740112534742
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-gtest-vendor-1.10.9006-np126py311h3c4c5c5_7.conda
+  sha256: e609679ae816fb86bd3e476489bc420d5e7ff227d926ce8e29d636c7a36fdc0f
+  md5: 8da9af49b037237c5bf30a4df55d44d0
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 180007
-  timestamp: 1712134291172
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-libstatistics-collector-1.3.1-py311hde20b13_6.tar.bz2
-  sha256: 23e220ee7e72a873897a757f9781000e9fca02e87361f1badebc703963026165
-  md5: f97837459ea1b81895775531b8cc79d8
+  size: 200407
+  timestamp: 1740112406872
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-libstatistics-collector-1.3.4-np126py311h3c4c5c5_7.conda
+  sha256: 2ee9204ce1aad3be29b666de1edd39c8a36ce04fff63a4272bce2f8908c40472
+  md5: fb81e9ab967475a512072cdcb87ea4c7
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-builtin-interfaces
   - ros-humble-rcl
@@ -2948,75 +3048,82 @@ packages:
   - ros-humble-rosidl-default-runtime
   - ros-humble-statistics-msgs
   - ros-humble-std-msgs
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - fmt >=11.1.3,<12.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 272307
-  timestamp: 1712270822510
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-libyaml-vendor-1.2.2-py311h5e4dfb3_6.tar.bz2
-  sha256: 9171f883040332b9c58ab85bfa84576d915955f33363ec83eb6d4fadbcb817b6
-  md5: d1b280a1b13d68dbf6ab11c9f3ea0285
+  size: 129418
+  timestamp: 1740115991708
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-libyaml-vendor-1.2.2-np126py311h3c4c5c5_7.conda
+  sha256: 859c84704e5c7a9ba742021b343f8c44ac2bc14189e218cbf59053441f664879
+  md5: b973502ad98e36461c816bc36ea7aed9
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
   - yaml
   - yaml-cpp
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 14663
-  timestamp: 1712189138477
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-lifecycle-msgs-1.2.1-py311h5e4dfb3_6.tar.bz2
-  sha256: e3923d67259a24218ce9186aa2d9f02b6c65f41ef8dc16d83e7a5d62af347a84
-  md5: cc088356d0d60711696d1161d66859f5
+  size: 29369
+  timestamp: 1740114252584
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-lifecycle-msgs-1.2.1-np126py311h3c4c5c5_7.conda
+  sha256: bf4faf63b9bf7577107ca770ecd3c714b4c8451d0d8ad42430932109b572f035
+  md5: 76cd80253b589c9c431db0f0a8f70c3b
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
   - ros-humble-rosidl-default-runtime
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 11746686
-  timestamp: 1712269381930
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-osrf-pycommon-2.0.2-py311h5e4dfb3_6.tar.bz2
-  sha256: 7a5b0796ddeef79db30289a502a7ebcf6b14956e8f9fee0641e39a04b4a97cf5
-  md5: fe22cfdd6c5d52a68efc4da94281ff2e
+  size: 466998
+  timestamp: 1740115059924
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-osrf-pycommon-2.1.4-np126py311h3c4c5c5_7.conda
+  sha256: f5ae2a94290004656de38eef13c9c3a5a52b04a34b6b8286a95f692c3b07e798
+  md5: 07e368d158ff77a69b832158f87b2b48
   depends:
-  - emscripten-abi 3.1.45.*
   - importlib-metadata
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 59003
-  timestamp: 1712134750406
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-pybind11-vendor-2.4.2-py311h5e4dfb3_6.tar.bz2
-  sha256: 4d26590280f376d292c53ee8981f73216af449cd0b6629dd803909e808b3aa47
-  md5: 0c5330d339d282ae383e4176f563baa5
+  size: 66121
+  timestamp: 1740112410867
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-pybind11-vendor-2.4.2-np126py311h3c4c5c5_7.conda
+  sha256: 1c4a28d08ef1c4cd61534e3160722a685cd85d08185d4cd77ebf86407715112f
+  md5: 235c4cfb62ad87ec57b6ac4095038bf9
   depends:
-  - emscripten-abi 3.1.45.*
   - pybind11
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 11426
-  timestamp: 1712136569711
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-python-cmake-module-0.10.0-py311h5e4dfb3_6.tar.bz2
-  sha256: 7b99ffd25a4ae49e86c4549398321e4832597231bf2af1a16f3ae9b3799b3da3
-  md5: e8b9e646337ddf25712bae313cccfe7e
+  size: 22402
+  timestamp: 1740113086620
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-python-cmake-module-0.10.0-np126py311h3c4c5c5_7.conda
+  sha256: 406b773771dde3e7e0dd6444f793243de1a6804787ce52539e29bcd02b11bf11
+  md5: 68df6b6b401e4f3d0cd1b5a8e2a13070
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 13805
-  timestamp: 1712137496458
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-5.3.7-py311hde20b13_6.tar.bz2
-  sha256: 835bafb7571e1586e327386f94a99d633b1c40200b5d3ccd1ba2b280bf453642
-  md5: 20d0677c924486a81792e9134dfa07f3
+  size: 27275
+  timestamp: 1740113552469
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-5.3.9-np126py311h3c4c5c5_7.conda
+  sha256: 3d1e74f92c25d2e2021c7bd0c04ab428f4ee3d8424706e6ea4557e263b40cc4d
+  md5: 9d98d147ea2e543db6f39d5cdcf1ddd7
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-rcl-interfaces
   - ros-humble-rcl-logging-interface
@@ -3028,15 +3135,17 @@ packages:
   - ros-humble-ros-workspace
   - ros-humble-rosidl-runtime-c
   - ros-humble-tracetools
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - fmt >=11.1.3,<12.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 277944
-  timestamp: 1712270484708
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-action-5.3.7-py311hde20b13_6.tar.bz2
-  sha256: f013656d9cb0c9f6fdb59b506aea185a72a440472b0db86d32fb1effa51e1168
-  md5: 5706841a173dfad4cedf2c400533b936
+  size: 245361
+  timestamp: 1740115598370
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-action-5.3.9-np126py311h3c4c5c5_7.conda
+  sha256: 270a3f4b761ae205247cdccb6d4a7713e63cc5b6d4be74df648108f9be2c5662
+  md5: 9398ac4b241bb91f6aa053a464b54207
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-action-msgs
   - ros-humble-rcl
@@ -3044,28 +3153,31 @@ packages:
   - ros-humble-rmw
   - ros-humble-ros-workspace
   - ros-humble-rosidl-runtime-c
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
+  - fmt >=11.1.3,<12.0a0
   license: BSD-3-Clause
-  size: 120756
-  timestamp: 1712270696535
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-interfaces-1.2.1-py311h5e4dfb3_6.tar.bz2
-  sha256: c5f46f9f4613fbc599c93e682fd7cf33911606d9f704ef0c5856531924ce9170
-  md5: be6fb5293145b486a8e42f03a24d5ffb
+  size: 92935
+  timestamp: 1740115889848
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-interfaces-1.2.1-np126py311h3c4c5c5_7.conda
+  sha256: c8a9e551f80432bf4d69f15ca195cb741b3cb04bfe57a175dd2b4c85e1502156
+  md5: 632fb81b70ef85e358d8fe8f61af90f4
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-builtin-interfaces
   - ros-humble-ros-workspace
   - ros-humble-rosidl-default-runtime
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12899988
-  timestamp: 1712269709059
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-lifecycle-5.3.7-py311h5e4dfb3_6.tar.bz2
-  sha256: 9ab88dd82205a65b5860c6ea24be8259c1ca9ed33d8d66a57069760b9cc21c75
-  md5: bd777e799eddd3931752e7d19de186fe
+  size: 1416038
+  timestamp: 1740115191752
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-lifecycle-5.3.9-np126py311h3c4c5c5_7.conda
+  sha256: 93802175bdee7acdd7a19dd8fd7a8f81668fdfe8960c2c4d23a2d00dbf5ebe89
+  md5: 9d7b5b795a91d35c77476b6f85e0f069
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-lifecycle-msgs
   - ros-humble-rcl
@@ -3074,73 +3186,81 @@ packages:
   - ros-humble-ros-workspace
   - ros-humble-rosidl-runtime-c
   - ros-humble-tracetools
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 90701
-  timestamp: 1712270674051
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-logging-interface-2.3.1-py311h5e4dfb3_6.tar.bz2
-  sha256: e96cd299b36b4b11a813af9b766f832363afca35609ac96a02a009dac4ff59ff
-  md5: d7742d4693c2990b30fe5505d52463c6
+  size: 62540
+  timestamp: 1740115744655
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-logging-interface-2.3.1-np126py311h3c4c5c5_7.conda
+  sha256: 9dc8577a37fa134d569dcb8f10f4d7e7d0fc15b08c2ccf1bb955bf82543c2c9d
+  md5: d5c3444d357138caf2ea21bd3d533608
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-rcutils
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 19246
-  timestamp: 1712189479408
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-logging-spdlog-2.3.1-py311h6009238_6.tar.bz2
-  sha256: 87c866105d909c3c9546b7e4188a994134f57742055729d0cd02beb6646c561f
-  md5: 6e20f7f95df7548c2b2d0df9a351864c
+  size: 34000
+  timestamp: 1740114181353
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-logging-spdlog-2.3.1-np126py311h1008649_7.conda
+  sha256: 1c739d48d672ae54231a76082f5aff9908607747cc558b072b92119b99940ca0
+  md5: 18673ff4a3082860df3dadf544d3983a
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-rcl-logging-interface
   - ros-humble-rcpputils
   - ros-humble-rcutils
   - ros-humble-ros-workspace
   - ros-humble-spdlog-vendor
-  - ros2-distro-mutex 0.5.* humble
-  - spdlog 1.11.*
+  - ros2-distro-mutex 0.6.* humble_*
+  - spdlog
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - spdlog >=1.15.0,<1.16.0a0
+  - fmt >=11.1.3,<12.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 82927
-  timestamp: 1712261839435
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcl-yaml-param-parser-5.3.7-py311h5e4dfb3_6.tar.bz2
-  sha256: f78888489049d6ed788db64161e8dacfb47fc492ae6530e9a03ff78ea58ade27
-  md5: 05e3fd6a9c940d62df5f5aab19b309a5
+  size: 99441
+  timestamp: 1740114380094
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcl-yaml-param-parser-5.3.9-np126py311h3c4c5c5_7.conda
+  sha256: 29efc7bd2c2069e053f2f6f9543099e748d322ba3e6dbcbc91ffbc8d88db91b1
+  md5: d8f95e004e3c8c90e00b501eff75020d
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-libyaml-vendor
   - ros-humble-rmw
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
   - yaml
   - yaml-cpp
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 96780
-  timestamp: 1712261712775
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rclc-4.0.2-py311hde20b13_6.tar.bz2
-  sha256: f873fce4d3ac7770ad1417217d9ad003271a85795182698485010daf8857e5b9
-  md5: 4331a376f7018202264cd58341828358
+  size: 64373
+  timestamp: 1740114369126
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rclc-4.0.2-np126py311h3c4c5c5_7.conda
+  sha256: 64b8e168d00c4eac87e558da745403242493c918c8af0bb687c8fbd2fa6eace2
+  md5: fac9bf1855b21a567b42106985ad749c
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-rcl
   - ros-humble-rcl-action
   - ros-humble-rcutils
   - ros-humble-ros-workspace
   - ros-humble-rosidl-generator-c
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
+  - fmt >=11.1.3,<12.0a0
   license: BSD-3-Clause
-  size: 138977
-  timestamp: 1712275598379
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rclcpp-16.0.8-py311hde20b13_6.tar.bz2
-  sha256: 8a1118d0a676450172bd295042aca1956ee47b7fb9e438044d0fb04615717346
-  md5: d71c163fb7aea7b601340afae4fa8009
+  size: 108538
+  timestamp: 1738748442839
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rclcpp-16.0.11-np126py311h3c4c5c5_7.conda
+  sha256: ab8c8182bfbbd953dd80d7b8b05aa65415396f7ff376f96b78cec7899451a1d7
+  md5: 0ae2e125265b8031620906fbbe4a0b2e
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-index-cpp
   - ros-humble-builtin-interfaces
@@ -3158,15 +3278,17 @@ packages:
   - ros-humble-rosidl-typesupport-cpp
   - ros-humble-statistics-msgs
   - ros-humble-tracetools
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
+  - fmt >=11.1.3,<12.0a0
   license: BSD-3-Clause
-  size: 6143796
-  timestamp: 1712271241491
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rclpy-3.3.12-py311h5e4dfb3_6.tar.bz2
-  sha256: 1720c78a21489fb13d7acf1c434d21a18fcedf2378e1a2de4ddb01b520ccbb4d
-  md5: ade692b97e4c1524d0da7a88857065bf
+  size: 5406682
+  timestamp: 1740116455663
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rclpy-3.3.15-np126py311h3c4c5c5_7.conda
+  sha256: 3ec57c842bdc2471d2d73c40635fb5c728c1715ea8c4eb6d298500ef6257ead9
+  md5: f8c337623a9293b708d2f530acbfeddb
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-index-python
   - ros-humble-builtin-interfaces
@@ -3183,163 +3305,176 @@ packages:
   - ros-humble-rosidl-runtime-c
   - ros-humble-rpyutils
   - ros-humble-unique-identifier-msgs
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 7880461
-  timestamp: 1712271147210
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcpputils-2.4.2-py311h5e4dfb3_6.tar.bz2
-  sha256: f3b8a7dce1707334e5fa200ba1812a0f22ac50a2e6e76f46da15f1e343bdc424
-  md5: c8ae7afb16c51f00dfc5120bc73351d3
+  size: 8690762
+  timestamp: 1740116161384
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcpputils-2.4.4-np126py311h3c4c5c5_7.conda
+  sha256: c59da9baaf1da2ce257a31f897436b7505227de3d2ea2741546e7c67720534c8
+  md5: 47a70ecd9618c54d56197c3fe1ad92c6
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-rcutils
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 185911
-  timestamp: 1712188799661
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rcutils-5.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: 76c951baf4fee6ed63e66a4db4afe81797030a5a925526f8a6e13488e634d187
-  md5: ac29de946b86eb2e492f02032d56c5db
+  size: 194361
+  timestamp: 1740114108204
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rcutils-5.1.6-np126py311h3c4c5c5_7.conda
+  sha256: 02dcfc6605dd7e066d3185cfe4cab1cdbc80aae0b32a62170b2c011659485d52
+  md5: 8d747012d968490ee14d653d74c082b9
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 131285
-  timestamp: 1712188593702
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rmw-6.1.1-py311h5e4dfb3_6.tar.bz2
-  sha256: ea922d2b0fe9ccaef09869eedb0b509a7528f76d0db9a00ee7f3ad954699994a
-  md5: 9a2d50639ee1d422ce56f8bb053ae5a7
+  size: 146954
+  timestamp: 1740113947349
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rmw-6.1.2-np126py311h3c4c5c5_7.conda
+  sha256: f4a35f8241467a0b7760582fa309fcbde5f6f0fec4a79f493826300d29aa042c
+  md5: cb3c9661bf16b3a6f6b45c3189ce46b3
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-rcutils
   - ros-humble-ros-workspace
   - ros-humble-rosidl-runtime-c
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 85950
-  timestamp: 1712189103296
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rmw-implementation-2.8.2-py311hde20b13_6.tar.bz2
-  sha256: 2536c8fbda24b095aa6452fe55ae41837b925d06fe4e52f730594b8e344a5caa
-  md5: 288d072510ef8e92b6e60f6067c26c42
+  size: 101768
+  timestamp: 1740114236804
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rmw-implementation-2.8.4-np126py311h3c4c5c5_7.conda
+  sha256: 12f277602ffcdd9acdae46a87dc6f5ca3caafa55c66d6c23b745a41284aae09f
+  md5: 6f7fbc0c6a43c5368047123151b6c2c6
   depends:
-  - emscripten-abi 3.1.45.*
+  - ros-humble-rmw-wasm-cpp
   - python
   - ros-humble-ament-index-cpp
   - ros-humble-rcpputils
   - ros-humble-rcutils
   - ros-humble-rmw-implementation-cmake
-  - ros-humble-rmw-wasm-cpp
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - fmt >=11.1.3,<12.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 13535
-  timestamp: 1712261689336
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rmw-implementation-cmake-6.1.1-py311h5e4dfb3_6.tar.bz2
-  sha256: bc983fa04ae2ef3ab0708e1e2e775999e3ef96968ce20a36dc9c2d57b984bf4e
-  md5: 16521e2408ecdf1ed414ed0ce5401808
+  size: 29489
+  timestamp: 1740114782666
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rmw-implementation-cmake-6.1.2-np126py311h3c4c5c5_7.conda
+  sha256: f0187c6e33c38e3298f4205a83b24aea27116d38d88ed5cd4bc95ad025e353a1
+  md5: c8d9a526c464fb24a2ea4071dcb05224
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 14773
-  timestamp: 1712188370091
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rmw-wasm-cpp-1.1.0-py311h5e4dfb3_6.tar.bz2
-  sha256: 6432837a20e82497b632ba828e63f72b60ac47f0f083e80d2c8b51a10a8b1f16
-  md5: 86519aa03e5ef3b5a4cf73c4b2cd34a6
+  size: 28168
+  timestamp: 1740113547918
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rmw-wasm-cpp-1.1.0-np126py311h3c4c5c5_6.conda
+  sha256: b2245dc6823960ce1f837cb67a442cf8c80b0e6a287674cb82baf6b4e5c8364c
+  md5: 321169b4cbcb0483b32d30f7bf975c52
   depends:
-  - dynmsg
-  - emscripten-abi 3.1.45.*
   - python
-  - ros-humble-rcpputils
-  - ros-humble-rcutils
+  - dynmsg
   - ros-humble-rmw
+  - ros-humble-wasm-cpp
+  - ros-humble-rcutils
+  - ros-humble-rcpputils
   - ros-humble-rosidl-runtime-c
   - ros-humble-rosidl-runtime-cpp
   - ros-humble-rosidl-typesupport-introspection-c
   - ros-humble-rosidl-typesupport-introspection-cpp
-  - ros-humble-wasm-cpp
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 292492
-  timestamp: 1712262040930
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-ros-workspace-1.0.2-py311h5e4dfb3_6.tar.bz2
-  sha256: 94230fc8fcae7ba8b59bdbfabbdf49de8a941eac6715510586385e349508e16b
-  md5: 04c043040c58adfe07216e31fffaeb80
+  size: 1332041
+  timestamp: 1740114579043
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-ros-workspace-1.0.2-np126py311h3c4c5c5_7.conda
+  sha256: df47054c86cc0b0ea0284e7f49613cebf123df2eab222b60bd5849a09a7c252f
+  md5: 6ce7a3392178442cc9d1a3947fae773e
   depends:
-  - emscripten-abi 3.1.45.*
   - python
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 27697
-  timestamp: 1712134069514
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosgraph-msgs-1.2.1-py311h5e4dfb3_6.tar.bz2
-  sha256: 74c73e0d0a701bccce05c054680638f889174dcaf0115b2a1d9e3dd70a6baef0
-  md5: cc2f2cf67b44f5c8f2c6fc218308e71e
+  size: 36542
+  timestamp: 1740112289703
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosgraph-msgs-1.2.1-np126py311h3c4c5c5_7.conda
+  sha256: 14afb7ea01681ba016d5147375e2ede9e41eaebfd840829fda3e85eaad987eff
+  md5: 3da2c47b3d11f57d152c0e3f94108ac8
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-builtin-interfaces
   - ros-humble-ros-workspace
   - ros-humble-rosidl-default-runtime
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 11245307
-  timestamp: 1712269903264
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-adapter-3.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: 9bf0208933226eb67513e4540ba72d41fbea67fcbd958114e108107bae64029e
-  md5: 3e6c900d868285668abf2e9f1e92fe23
+  size: 106055
+  timestamp: 1740115326371
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-adapter-3.1.6-np126py311h3c4c5c5_7.conda
+  sha256: 7fb01b53e600d9f8ea9415423a75b399cbf48854e2a5b9ae350932a2dfc0a9da
+  md5: 38cd993982c31c5e1469adeb411b15d2
   depends:
   - empy
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ros-workspace
   - ros-humble-rosidl-cli
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 49251
-  timestamp: 1712137636782
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-cli-3.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: 20ba61274879d33cbedcd333ae3079b6557b1974075b06c88e643c4f2e0ad848
-  md5: ba6edf403bec8dcb637f34df705ee739
+  size: 63216
+  timestamp: 1740113610589
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-cli-3.1.6-np126py311h3c4c5c5_7.conda
+  sha256: e4a8744a7706cc8e096156af8f1f0e0980095332c44d5291782353b7e6491083
+  md5: 866652b47d3173df07679ea91282b553
   depends:
   - argcomplete
-  - emscripten-abi 3.1.45.*
   - importlib-metadata
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 29765
-  timestamp: 1712136593649
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-cmake-3.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: 11dc486dce2bd42521a4b4a69cd95015769be752dc1e22033cbb2315c4600097
-  md5: 262fe02d6037db364fc9a64686d899f9
+  size: 38875
+  timestamp: 1740112882716
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-cmake-3.1.6-np126py311h3c4c5c5_7.conda
+  sha256: a9f80f8834b8a8abee3b6adeb635fa887e45d39431994db5c216d80a24871f16
+  md5: c4baa542f45805dfcd85eff4ea7468e0
   depends:
   - empy
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake
   - ros-humble-ros-workspace
   - ros-humble-rosidl-adapter
   - ros-humble-rosidl-parser
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 26496
-  timestamp: 1712188612293
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-default-runtime-1.2.0-py311h5e4dfb3_6.tar.bz2
-  sha256: 2eb3f1c9b57c571d81f705f682057618b9c74c2a8427be391aedd52375eb00a2
-  md5: 0882930c3deca299d1f485960f785859
+  size: 39594
+  timestamp: 1740113997329
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-default-runtime-1.2.0-np126py311h3c4c5c5_7.conda
+  sha256: a90676caff56d7364f67e71add3acaea089320166b3daea63f3f7cd07587e746
+  md5: 4ff69597232669dde15e41f13427b165
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
   - ros-humble-rosidl-generator-py
@@ -3351,15 +3486,16 @@ packages:
   - ros-humble-rosidl-typesupport-fastrtps-cpp
   - ros-humble-rosidl-typesupport-introspection-c
   - ros-humble-rosidl-typesupport-introspection-cpp
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12560
-  timestamp: 1712267959756
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-generator-c-3.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: e4c2ca9d1c16b4d4002417c9ab0580bb9c4cdfb72fe3f3286cf7ded9e393eb5b
-  md5: d744a870a18c9fcf3fa881059f454ab6
+  size: 29704
+  timestamp: 1740114922818
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-generator-c-3.1.6-np126py311h3c4c5c5_7.conda
+  sha256: 09d8109db7698e14e361f394c0d09735ec10db9730412770ab678a74f937326b
+  md5: 9353f63a899f7f4b93c8be126ddf1d00
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ament-index-python
@@ -3369,15 +3505,16 @@ packages:
   - ros-humble-rosidl-cmake
   - ros-humble-rosidl-parser
   - ros-humble-rosidl-typesupport-interface
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 31581
-  timestamp: 1712189085641
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-generator-cpp-3.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: e7df9c818b7e65163dcb45e0a0702a8dcc716b58fd2c07b4087a87f105b2f2fd
-  md5: 7a69c48362530bf654f68383cb3520a1
+  size: 46189
+  timestamp: 1740114228610
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-generator-cpp-3.1.6-np126py311h3c4c5c5_7.conda
+  sha256: 2909f66884270fea57de5a2ba53fc36bc8543ce2bb7c6955d48f8ecc94f2cdf3
+  md5: 092858d1dd2620b1db5f22ef928809e2
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ament-index-python
@@ -3387,15 +3524,16 @@ packages:
   - ros-humble-rosidl-generator-c
   - ros-humble-rosidl-parser
   - ros-humble-rosidl-runtime-cpp
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 34287
-  timestamp: 1712261648503
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-generator-py-0.14.4-py311h5e4dfb3_6.tar.bz2
-  sha256: 12af5e2ead7da4767f560939e22124e6ff629715b977316663e038681155dd3b
-  md5: 01feb849fd18b5d7851008205b16612d
+  size: 49233
+  timestamp: 1740114308652
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-generator-py-0.14.4-np126py311h3c4c5c5_7.conda
+  sha256: 92ad846287f83f7f9c4a25a934be6c9647ac466a9f139ed519f312cb546b5c6c
+  md5: 2e1073927d96777072524d10cc244e22
   depends:
-  - emscripten-abi 3.1.45.*
   - numpy
   - python
   - ros-humble-ament-cmake
@@ -3411,55 +3549,59 @@ packages:
   - ros-humble-rosidl-typesupport-c
   - ros-humble-rosidl-typesupport-interface
   - ros-humble-rpyutils
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 43199
-  timestamp: 1712267786055
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-parser-3.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: d12843a20a94a4ec848b2851bd4e9e8aa73420b1ecec2edb71f4d5b3b58ddef2
-  md5: 77d38ec85595f15b3806cfdf90a97500
+  size: 59936
+  timestamp: 1740114912669
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-parser-3.1.6-np126py311h3c4c5c5_7.conda
+  sha256: cbb2f9d23d4a13c39fe704a61abb8ba7cfa7e8b88e4ad00a4d9000fafabb5a43
+  md5: 6ad1b899b7139ace5937b066f8c9e42f
   depends:
-  - emscripten-abi 3.1.45.*
   - lark-parser
   - python
   - ros-humble-ros-workspace
   - ros-humble-rosidl-adapter
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 46213
-  timestamp: 1712188339213
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-runtime-c-3.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: 1f107cd6b2a06db0ce87a2473d9247c20c0d7d5c2dfc4d267e7fcf6066ccf082
-  md5: bb0104ceb195ab1cf436d62d1a9d0330
+  size: 59455
+  timestamp: 1740113794610
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-runtime-c-3.1.6-np126py311h3c4c5c5_7.conda
+  sha256: 078e920fd785e70db8dd4b187014263bcd27962ac0dc110c9a32a7fa91f99497
+  md5: 9270bc4a3053ec85e9ae92ccacf2d6e8
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake
   - ros-humble-rcutils
   - ros-humble-ros-workspace
   - ros-humble-rosidl-typesupport-interface
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 43640
-  timestamp: 1712188782910
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-runtime-cpp-3.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: 741b776e5b8f9c46fe04a1e7cdd0c0c95a2237963b8c56452861f2d48b91c91f
-  md5: c6ba85cb56d29a74d334cf30f03f1ed4
+  size: 54081
+  timestamp: 1740114039189
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-runtime-cpp-3.1.6-np126py311h3c4c5c5_7.conda
+  sha256: 707e1e677ef78066bf5b143abce090a6d181054d052c78353b6bfe81e410f386
+  md5: 9b8e574a17dd05cce834baffca2eba7f
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake
   - ros-humble-ros-workspace
   - ros-humble-rosidl-runtime-c
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 21204
-  timestamp: 1712189063651
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-c-2.0.1-py311h5e4dfb3_6.tar.bz2
-  sha256: db803b4105ee3b3493113faf0f3c5f45b26c01424af6029a469c05e7a7e7c38d
-  md5: 28ab6ad58ea17e371fd0d9e77e3cb7a6
+  size: 34470
+  timestamp: 1740114176967
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-c-2.0.2-np126py311h3c4c5c5_7.conda
+  sha256: 0a15971e805c2732f0b2ed7bf9a254adb64a9687bb485fa7316bcf11d218557a
+  md5: 54c26b041c004b98dde03fc95b8c4167
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ament-index-python
@@ -3471,15 +3613,16 @@ packages:
   - ros-humble-rosidl-typesupport-fastrtps-c
   - ros-humble-rosidl-typesupport-interface
   - ros-humble-rosidl-typesupport-introspection-c
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 52658
-  timestamp: 1712267734976
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-cpp-2.0.1-py311h5e4dfb3_6.tar.bz2
-  sha256: 6e6bce2cfb9fc625f4da517c8f4b9e0cce6b6b0a1ac23d13a1ce81a9d8e911bc
-  md5: d51a4e2f928ac384353df1dd2539f1c5
+  size: 62323
+  timestamp: 1740114792820
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-cpp-2.0.2-np126py311h3c4c5c5_7.conda
+  sha256: 0c19116b11b3b0db5cc4589ae88b7be78280d02d3b4dcf13c8c907ecce977658
+  md5: fe2a673a02192785da4be0ec524cc64d
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-core
   - ros-humble-ament-index-python
@@ -3493,15 +3636,16 @@ packages:
   - ros-humble-rosidl-typesupport-fastrtps-cpp
   - ros-humble-rosidl-typesupport-interface
   - ros-humble-rosidl-typesupport-introspection-cpp
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 52063
-  timestamp: 1712267769690
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-fastrtps-c-2.2.2-py311h5e4dfb3_6.tar.bz2
-  sha256: 78de576fc94a31f50aba782660fc061a8610b80b6c5e1f079c94e3552f50eb7c
-  md5: 01cf10613ccb1bffd3d2decee1145f1b
+  size: 62389
+  timestamp: 1740114839374
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-fastrtps-c-2.2.2-np126py311h3c4c5c5_7.conda
+  sha256: b93c0147eb1dfad41e2e10df345f3434067492c4868422cefb89d6ba4d92a774
+  md5: 2e48a9e1948416747fb526079f8f6059
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-ros
   - ros-humble-ament-index-python
@@ -3516,15 +3660,16 @@ packages:
   - ros-humble-rosidl-runtime-cpp
   - ros-humble-rosidl-typesupport-fastrtps-cpp
   - ros-humble-rosidl-typesupport-interface
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 42338
-  timestamp: 1712262075011
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-fastrtps-cpp-2.2.2-py311h5e4dfb3_6.tar.bz2
-  sha256: ec01a7bca313c841036561d1329a5f659768ecccaedc04fce7ad6939de52e3e4
-  md5: 1306815ed5a450b880e73cff79248570
+  size: 55887
+  timestamp: 1740114728376
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-fastrtps-cpp-2.2.2-np126py311h3c4c5c5_7.conda
+  sha256: 93f530023085863438596189ea6f67dd7f5ed6d611ba8189ddde25fad246dcce
+  md5: 0e908bd655754fa0267267cfc1f22a45
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake-ros
   - ros-humble-ament-index-python
@@ -3538,26 +3683,28 @@ packages:
   - ros-humble-rosidl-runtime-c
   - ros-humble-rosidl-runtime-cpp
   - ros-humble-rosidl-typesupport-interface
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 58944
-  timestamp: 1712262018273
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-interface-3.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: 145eae9aa7f4dd81a7f5594020dc8b185bb42660560739d322c42b6180a4a8b5
-  md5: 705e3edc145268d9d03fe81288efc2e8
+  size: 70815
+  timestamp: 1740114519849
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-interface-3.1.6-np126py311h3c4c5c5_7.conda
+  sha256: f31099bdd34bf9b0015c77e9c24eb2e4e5aabfb85352b9aeeda03ec3f3bb4910
+  md5: 6092273f59803d635f8a2158d1d0c3ce
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 14094
-  timestamp: 1712137653075
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-introspection-c-3.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: 3e8fa0fe1b75caf104f580cd866ccbbc689bf067fa8b80d3f1b66aac02021aa0
-  md5: 03e65e8679d7801ee2c942ef3e49da9e
+  size: 28003
+  timestamp: 1740113620027
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-introspection-c-3.1.6-np126py311h3c4c5c5_7.conda
+  sha256: 3ba90c08a7612cb42d59cb7a366c7a77b27f9164d938bb44302e51a39cc7a9bf
+  md5: a3319f3af5b2f192017c020d4a83f759
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake
   - ros-humble-ament-index-python
@@ -3566,15 +3713,16 @@ packages:
   - ros-humble-rosidl-cmake
   - ros-humble-rosidl-parser
   - ros-humble-rosidl-runtime-c
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 29447
-  timestamp: 1712189120708
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rosidl-typesupport-introspection-cpp-3.1.5-py311h5e4dfb3_6.tar.bz2
-  sha256: 89915de5bc9fb30ed4038ee555b9a6f231aef7b7574c0560b2d83ad0eb636ab9
-  md5: 3af71c91e29b3ba443d81b086dc59f77
+  size: 44687
+  timestamp: 1740114245690
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rosidl-typesupport-introspection-cpp-3.1.6-np126py311h3c4c5c5_7.conda
+  sha256: a9140d0eb5c284515682753d495599cefef5abd08db5df5557926e0aacd4e746
+  md5: f2eef26735a980402f13e37da43cbef5
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ament-cmake
   - ros-humble-ament-index-python
@@ -3586,126 +3734,145 @@ packages:
   - ros-humble-rosidl-runtime-cpp
   - ros-humble-rosidl-typesupport-interface
   - ros-humble-rosidl-typesupport-introspection-c
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 29588
-  timestamp: 1712261668741
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-rpyutils-0.2.1-py311h5e4dfb3_6.tar.bz2
-  sha256: df59f64f471df4b03d05bc321dca8c62374cc4393a453bd39b3548f66bee369e
-  md5: c70e5b76046b1aa76790cddc7aa5646e
+  size: 45048
+  timestamp: 1740114360398
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-rpyutils-0.2.1-np126py311h3c4c5c5_7.conda
+  sha256: 4667cfb4d482cdc0b06a9d9819890996824f001e64d4666ab193c12f23d2648f
+  md5: 586b928ae964fafbdb753c4aea680054
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 16005
-  timestamp: 1712136607660
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-spdlog-vendor-1.3.1-py311h6009238_6.tar.bz2
-  sha256: 51334a246d2aa0f141fd2ce538620b62b6b787c91caa259fdecbfa3bac3c12ec
-  md5: 97078fc1065ef29343047812484e1d1e
+  size: 25532
+  timestamp: 1740112932704
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-spdlog-vendor-1.3.1-np126py311h1008649_7.conda
+  sha256: 8dbd85833e3c8f6f00934c57089d3d590a0acb010e5d1180fbe05a3a93fc408d
+  md5: 25c0c7c4ac86d506dad29c4c5aa5c6f5
   depends:
-  - emscripten-abi 3.1.45.*
   - fmt
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
-  - spdlog 1.11.*
+  - ros2-distro-mutex 0.6.* humble_*
+  - spdlog
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - fmt >=11.1.3,<12.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
+  - spdlog >=1.15.0,<1.16.0a0
   license: BSD-3-Clause
-  size: 12678
-  timestamp: 1712188321618
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-statistics-msgs-1.2.1-py311h5e4dfb3_6.tar.bz2
-  sha256: cf02c690ae2134efcbedb6cdf263c0c9e30446decad6b9f56bbc681fe7e37c45
-  md5: 52f3e7af906f880038ef3aff3df1474e
+  size: 26601
+  timestamp: 1740113603811
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-statistics-msgs-1.2.1-np126py311h3c4c5c5_7.conda
+  sha256: 113a30e323e7f838df3ff572407f9e154cd5867407507dae9c537c61975dc246
+  md5: 6d713703df05c98fc03195f608f8aa33
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-builtin-interfaces
   - ros-humble-ros-workspace
   - ros-humble-rosidl-default-runtime
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 11439965
-  timestamp: 1712269858737
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-std-msgs-4.2.3-py311h5e4dfb3_6.tar.bz2
-  sha256: e6ccb259ef79cd82c03fea082b9f24a4ae558e8f3ec00c69b267632a726e24f8
-  md5: 19d5cd8cc8a59f593c2cf30f439f124d
+  size: 239877
+  timestamp: 1740115309242
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-std-msgs-4.2.4-np126py311h3c4c5c5_7.conda
+  sha256: 48972eaeb0d91eba61c807021781daa7e6430066500b311ad9aac3c848a664e1
+  md5: a653bdaf2e88ed8563c961763702c0db
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-builtin-interfaces
   - ros-humble-ros-workspace
   - ros-humble-rosidl-default-runtime
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 12332083
-  timestamp: 1712269808544
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-test-wasm-1.0.0-py311h62abee3_1.tar.bz2
-  sha256: a74eb42673f5e2d84ba2747b038ed0ffec435682340abf4a85424bf8cbfaf305
-  md5: e6c77d366a71ee341c14594cf3408516
+  size: 826485
+  timestamp: 1740115240006
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-test-wasm-1.0.0-np126py311h3c4c5c5_1.conda
+  sha256: 4e53a56846b0d35c7b419fdddceaa7feac694f774cc3b960974b3da8cbac22b0
+  md5: b20e5128bb0462d0d3b1d811ac8ba755
   depends:
-  - emscripten-abi 3.1.45.*
   - python
-  - ros-humble-example-interfaces
   - ros-humble-rclcpp
   - ros-humble-std-msgs
+  - ros-humble-example-interfaces
   - ros-humble-yaml-cpp-vendor
-  - ros2-distro-mutex 0.5.* humble
-  size: 70165
-  timestamp: 1712277785936
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-tracetools-4.1.1-py311h5e4dfb3_6.tar.bz2
-  sha256: 75a3d007e301c47af4b578e301381c6cea967aa4887d6c8dd69a97572432e5de
-  md5: 22e820e284fb2c98fcf5977031aa3bb0
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
+  license: BSD-3-Clause
+  size: 66179
+  timestamp: 1738746551495
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-tracetools-4.1.1-np126py311h3c4c5c5_7.conda
+  sha256: 3fbfd270c4d0ef7a6fa739236dc65206f0c182f8b288af155caee843c406db65
+  md5: 381b497b09781deeace09160046b6fed
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 330891
-  timestamp: 1712188403801
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-unique-identifier-msgs-2.2.1-py311h5e4dfb3_6.tar.bz2
-  sha256: de4a122ca8feaa439f1bc50f1de7db1b96c3ad8de73554d8cf5245c4a26bcf5a
-  md5: 01f9c0ed24df20fb23c4b002b3f0c384
+  size: 373233
+  timestamp: 1740113803958
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-unique-identifier-msgs-2.2.1-np126py311h3c4c5c5_7.conda
+  sha256: 22ff026ee45bf8e15d05ece7606bdec8fffb9a2a90667f0627a9d32cbaddf2fd
+  md5: f4231f060d4b11a23b5bcb6cf09fc6cd
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
   - ros-humble-rosidl-default-runtime
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 11240989
-  timestamp: 1712269276469
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-wasm-cpp-1.0.0-py311h5e4dfb3_6.tar.bz2
-  sha256: 2b4e2441401a9e4a6430d055c147579451d16e573bd6fc623dcbacd81dfc95b6
-  md5: 0f6dc97fe6e8bcd1f4e2a2bc1d3a2dd4
+  size: 114713
+  timestamp: 1740114990267
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-wasm-cpp-1.0.0-np126py311h3c4c5c5_6.conda
+  sha256: 35ee1c8818f781ea57541b0f7dc37c0b061c70da7dea703320980f2011bd4764
+  md5: ec54298845b0c1a414774dbe4d4af93f
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-rcutils
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 189921
-  timestamp: 1712261528520
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros-humble-yaml-cpp-vendor-8.0.2-py311h5e4dfb3_6.tar.bz2
-  sha256: f1789e48e6ed48b395201c667541219ae6059ee45fe1eb06e66a3f6e97720edb
-  md5: 8a482e3197f0ba26c5c0cf9c9667cacb
+  size: 208892
+  timestamp: 1740114118089
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros-humble-yaml-cpp-vendor-8.0.2-np126py311h3c4c5c5_7.conda
+  sha256: e62a47d510e96de4208e803bad48b31fc6b017019f0dee78a08bb764546deb45
+  md5: b8d34abcd5ae0476f913d6f589e81da2
   depends:
-  - emscripten-abi 3.1.45.*
   - python
   - ros-humble-ros-workspace
-  - ros2-distro-mutex 0.5.* humble
+  - ros2-distro-mutex 0.6.* humble_*
   - yaml-cpp
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - ros2-distro-mutex >=0.6.0,<0.7.0a0
   license: BSD-3-Clause
-  size: 11967
-  timestamp: 1712136469725
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/ros2-distro-mutex-0.5.0-humble.tar.bz2
-  build_number: 2
-  sha256: 2da0458a36f914e416b6aa09c65d468392030e5739a5edd03116423dbf30016f
-  md5: f6e51576a794a756effa41744422f9fb
+  size: 23206
+  timestamp: 1740113076966
+- conda: https://conda.anaconda.org/nmarticorena/emscripten-wasm32/ros2-distro-mutex-0.6.0-humble_0.conda
+  sha256: 74c303789c3fc126cb726b12b8cdfdcaefbd551ed1e786afe2b8a723b6a6ef93
+  md5: 644b5c7529cd1fdd678f30b5998f2d89
+  constrains:
+  - libboost 1.86.*
+  - libboost-devel 1.86.*
+  - pcl 1.14.1.*
+  - gazebo 11.*
+  - libprotobuf 5.28.2.*
   license: BSD-3-Clause
-  size: 3330
-  timestamp: 1712133223262
+  size: 2527
+  timestamp: 1740112158607
 - conda: https://conda.anaconda.org/conda-forge/linux-64/rpds-py-0.22.3-py313h920b4c0_0.conda
   sha256: bc48ecdc85af79bc9ea1581c154d8b86d583b6ecb1401548120cbef58c8940e5
   md5: f21c21a167b2e25292e436dcb8e7cf3e
@@ -3813,15 +3980,16 @@ packages:
   license_family: MIT
   size: 36754
   timestamp: 1693929424267
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/spdlog-1.11.0-h32a6373_2.tar.bz2
-  sha256: 9c92ef1d88c05aabef5ea2142c737aa5d88b5537ec14ba758a73cfe095c99db6
-  md5: 751bbe5da6a6fddf417dbff60e3f7583
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/spdlog-1.15.0-ha116a9f_2.tar.bz2
+  sha256: 2a73983bf099e174c7e3f8c051b776ddf9ac147a331ac7342552f3dc73c0a251
+  md5: 6d1963dcf1aba5bcf869bfb469fe4bfe
   depends:
-  - emscripten-abi 3.1.45.*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
+  - fmt >=11.1.3,<12.0a0
   license: MIT
   license_family: MIT
-  size: 145010
-  timestamp: 1703589714963
+  size: 154147
+  timestamp: 1738679283132
 - conda: https://conda.anaconda.org/conda-forge/noarch/stack_data-0.6.3-pyhd8ed1ab_1.conda
   sha256: 570da295d421661af487f1595045760526964f41471021056e993e73089e9c41
   md5: b1b505328da7a6b246787df4b5a49fbc
@@ -4085,19 +4253,19 @@ packages:
   license_family: BSD
   size: 898402
   timestamp: 1733128654300
-- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/xeus-python-0.17.2-h73c07d9_0.tar.bz2
-  sha256: 1c8c5ef1db7a3f351617500e693eeb528dc5704fd7fe8f5f10badd5c6da6659b
-  md5: d0ab9b87407e6787f0835d0b79dd81dc
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/xeus-python-0.16.0-h1be4ea2_3.tar.bz2
+  sha256: 0b8691b5f17b41f11f4e88b30a5b3302053e31cb87c260a76e52bb9248c77863
+  md5: ef8dda1ae8771dae3f04d13969ba43d9
   depends:
-  - python
+  - emscripten-abi 3.1.45.*
   - ipython
   - jedi
+  - python
   - xeus-python-shell >=0.6.0,<0.7
-  - pyjs >=2,<3
-  license: BSD-3-Clause
+  license: BSD-3
   license_family: BSD-3
-  size: 3959480
-  timestamp: 1729678367363
+  size: 3802604
+  timestamp: 1710402029998
 - conda: https://conda.anaconda.org/conda-forge/noarch/xeus-python-shell-0.6.3-pyhff2d567_1.conda
   sha256: 936b214464763e8e38e0d04f325eb4f91ffef0f5c0d7d2045643983dca9d60a4
   md5: e9c3740a1279b1a5eabdf17511553a40
@@ -4143,24 +4311,24 @@ packages:
   license_family: MIT
   size: 88016
   timestamp: 1641347076660
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/yaml-0.2.5-h8f0b7e7_0.tar.bz2
-  sha256: a62117e1866f2fa890233d74275bce419b204a639da4156c76a4fd51ffb8c7d7
-  md5: a15cfb6602510d348d483bf111af7a64
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/yaml-0.2.5-ha5b3b25_0.tar.bz2
+  sha256: 38f955ffcce55151c8242951f6f5a1c312c02e2004b29fff2fe8c35a5ede6b9d
+  md5: 929c378b2723e1c67c0e9e831d0d8fec
   depends:
-  - emscripten-abi 3.1.45.*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
   license: MIT
   license_family: MIT
-  size: 190350
-  timestamp: 1703589767118
-- conda: https://repo.mamba.pm/robostack-wasm/emscripten-wasm32/yaml-cpp-0.7.0-h8f0b7e7_0.tar.bz2
-  sha256: be029ab04cbcc5cd94cde62212b3a5a0b40aa01a92e3caca256c2d798bd28139
-  md5: 42ee418ee260bf7a1bcb9f68c33fc27f
+  size: 46061
+  timestamp: 1738679283125
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/yaml-cpp-0.7.0-ha5b3b25_0.tar.bz2
+  sha256: feb11f6aa16981b400589321986ac3f257bc48555bfa0f04498533dabe0fffc6
+  md5: 321014308ae65e933cd462c1261a51ed
   depends:
-  - emscripten-abi 3.1.45.*
+  - emscripten-abi >=3.1.45,<3.1.46.0a0
   license: MIT
   license_family: MIT
-  size: 137048
-  timestamp: 1703931016960
+  size: 82688
+  timestamp: 1738679283153
 - conda: https://conda.anaconda.org/conda-forge/linux-64/zeromq-4.3.5-h3b0a872_7.conda
   sha256: a4dc72c96848f764bb5a5176aa93dd1e9b9e52804137b99daeebba277b31ea10
   md5: 3947a35e916fcc6b9825449affbf4214
@@ -4207,6 +4375,14 @@ packages:
   license_family: MIT
   size: 21809
   timestamp: 1732827613585
+- conda: https://repo.mamba.pm/emscripten-forge/emscripten-wasm32/zlib-1.2.13-h12b8776_2.tar.bz2
+  sha256: 4d62e6550fcd8bb006844a8438c140859b2d54317aa19b3ef797b06297ae1660
+  md5: d7fb2b2b237191e09a118562f8294e00
+  depends:
+  - emscripten-abi 3.1.45.*
+  license_family: Other
+  size: 105829
+  timestamp: 1695110390484
 - conda: https://conda.anaconda.org/conda-forge/linux-64/zstandard-0.23.0-py313h80202fe_1.conda
   sha256: ea82f2b8964150a3aa7373b4697e48e64f2200fe68ae554ee85c641c692d1c97
   md5: c178558ff516cd507763ffee230c20b2
