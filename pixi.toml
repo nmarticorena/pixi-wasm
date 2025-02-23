@@ -29,7 +29,8 @@ ros-humble-rmw-wasm-cpp= "*"
 ros2-distro-mutex="0.5.*" # 0.6 if nmarticorena
 ros-humble-test-wasm = "*"
 ros-humble-pybind11-vendor = "*"
- ros-humble-osrf-pycommon = "*"
+ros-humble-osrf-pycommon = "*"
+matplotlib="*"
 #  jupyterlab_server = "*"
 # add any extra packages from emscripten-forge here
 
