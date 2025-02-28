@@ -16,7 +16,7 @@ platforms = ["emscripten-wasm32"]
 # we always need the xeus-python kernel for jupyterlite
 xeus-python = "*"
 python = { version = "3.11.*", build = "*_cpython" }
-ros-humble-rclpy= "*"
+ros-humble-rclpy= {version = "*"}
 ros-humble-std-msgs= "*"
 ipycanvas = "*"
 ipywidgets = "*"
@@ -47,15 +47,20 @@ build-dist = { cmd = "pixi run build --output-dir dist" }
 
 # build the jupyterlite app
 [feature.host.tasks.build]
-cmd = "jupyter lite build --XeusAddon.prefix=.pixi/envs/wasm --XeusPythonEnv.empack_config=empack_config.yaml" 
+cmd = "jupyter lite build --XeusAddon.prefix=.pixi/envs/wasm --XeusAddon.empack_config=./empack_config.yaml" 
 depends-on = ["setup-wasm"]
 outputs = ["_output"]
 inputs = ["pixi.lock", "files/"]
 
+[feature.host.tasks.patch]
+# cmd = "cp xpython.js _output/xeus/bin/xpython.js"
+cmd = "ls"
+depends-on = ["build"]
+
 # serve the jupyterlite app with a "simple server"
 [feature.host.tasks.start]
 cmd = "python -m http.server 8000 -d _output --cgi"
-depends-on = ["build"]
+depends-on = ["build","patch"]
 
 [environments]
 default = ["host"]
