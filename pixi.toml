@@ -40,7 +40,7 @@ channels = ["conda-forge"]
 platforms = ["osx-arm64", "osx-64", "linux-64"]
 
 [feature.host.dependencies]
-python = "3.12"
+python = "3.12.*"
 jupyterlite = "*" 
 jupyterlite-xeus="*"
 jupyterlite-core="*"
@@ -52,6 +52,10 @@ python-libarchive-c = "*"
 [feature.host.tasks]
 setup-wasm = { cmd = "pixi install -e wasm", inputs = ["pixi.lock"]  }
 build-dist = { cmd = "pixi run build --output-dir dist" }
+patch-dist = {cmd = "export FOLDER=dist && pixi run patch"}
+
+[feature.host.tasks.patch]
+depends-on=["patch-roslib", "patch-xpython"]
 
 # build the jupyterlite app
 [feature.host.tasks.build]
@@ -61,12 +65,12 @@ outputs = ["_output"]
 inputs = ["pixi.lock", "files/"]
 
 [feature.host.tasks.patch-xpython]
-cmd = "sed -i '' 's/jsArg.replace(\"\\*\",\"\")/jsArg.replaceAll(\"\\*\",\"\")/g' _output/xeus/bin/xpython.js"
-depends-on = ["build"]
+cmd = "sed -i '' 's/jsArg.replace(\"\\*\",\"\")/jsArg.replaceAll(\"\\*\",\"\")/g' $FOLDER/xeus/bin/xpython.js"
+env = {FOLDER = "_output"}
 
 [feature.host.tasks.patch-roslib]
-cmd = "cp roslib.js _output && cp pre.js _output"
-depends-on = ["build"]
+cmd = "cp roslib.js $FOLDER && cp pre.js $FOLDER"
+env = {FOLDER = "_output"}
 
 
 # serve the jupyterlite app with a "simple server"
