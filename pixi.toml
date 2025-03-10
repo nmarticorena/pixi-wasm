@@ -38,7 +38,15 @@ zlib="*"
 [feature.host]
 channels = ["conda-forge"]
 platforms = ["osx-arm64", "osx-64", "linux-64"]
-dependencies = { python = "*", jupyterlite-xeus = "*", jupyter_server = "*" }
+
+[feature.host.dependencies]
+python = "3.12"
+jupyterlite = "*" 
+jupyterlite-xeus="*"
+jupyterlite-core="*"
+jupyter = "*"
+libarchive = "*"
+python-libarchive-c = "*"
 
 # make sure that we have the WASM environment installed before building the app
 [feature.host.tasks]
@@ -52,15 +60,19 @@ depends-on = ["setup-wasm"]
 outputs = ["_output"]
 inputs = ["pixi.lock", "files/"]
 
-[feature.host.tasks.patch]
-# cmd = "cp xpython.js _output/xeus/bin/xpython.js"
-cmd = "ls"
+[feature.host.tasks.patch-xpython]
+cmd = "sed -i '' 's/jsArg.replace(\"\\*\",\"\")/jsArg.replaceAll(\"\\*\",\"\")/g' _output/xeus/bin/xpython.js"
 depends-on = ["build"]
+
+[feature.host.tasks.patch-roslib]
+cmd = "cp roslib.js _output && cp pre.js _output"
+depends-on = ["build"]
+
 
 # serve the jupyterlite app with a "simple server"
 [feature.host.tasks.start]
 cmd = "python -m http.server 8000 -d _output --cgi"
-depends-on = ["build","patch"]
+depends-on = ["build","patch-xpython", "patch-roslib"]
 
 [environments]
 default = ["host"]
