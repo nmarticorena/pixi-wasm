@@ -72,7 +72,7 @@ cmd = "cp roslib.js ./dist && cp pre.js ./dist"
 
 # serve the jupyterlite app with a "simple server"
 [feature.host.tasks.start]
-cmd = "python -m http.server 8000 -d _output --cgi"
+cmd = "python -m http.server 8000 -d ./dist --cgi"
 depends-on = ["build", "patch-xpython", "copy-roslib"]
 
 [environments]
