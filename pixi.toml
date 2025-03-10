@@ -61,6 +61,7 @@ depends-on = ["setup-wasm"]
 outputs = ["dist/"]
 inputs = ["pixi.lock", "files/"]
 
+
 [target.linux-64.tasks.patch-xpython]
 cmd = "sed -i 's/jsArg.replace(\"\\*\",\"\")/jsArg.replaceAll(\"\\*\",\"\")/g' './dist/xeus/bin/xpython.js'"
 
@@ -68,7 +69,8 @@ cmd = "sed -i 's/jsArg.replace(\"\\*\",\"\")/jsArg.replaceAll(\"\\*\",\"\")/g' '
 cmd = "sed -i '' 's/jsArg.replace(\"\\*\",\"\")/jsArg.replaceAll(\"\\*\",\"\")/g' ./dist/xeus/bin/xpython.js"
 
 [feature.host.tasks.copy-roslib]
-cmd = "cp roslib.js ./dist && cp pre.js ./dist"
+cmd = "cp roslib.js ./dist/$EXTENSION_FOLDER && cp pre.js ./dist/$EXTENSION_FOLDER"
+env = {EXTENSION_FOLDER="extensions/@jupyterlite/xeus-extension/static"}
 
 # serve the jupyterlite app with a "simple server"
 [feature.host.tasks.start]
