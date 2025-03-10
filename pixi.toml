@@ -65,7 +65,7 @@ outputs = ["_output"]
 inputs = ["pixi.lock", "files/"]
 
 [target.linux-64.tasks.patch-xpython]
-cmd = "echo $FOLDER linux-64  &&  ls -l '$FOLDER/xeus/bin' && sed -i 's/jsArg.replace(\"\\*\",\"\")/jsArg.replaceAll(\"\\*\",\"\")/g' '$FOLDER/xeus/bin/xpython.js'"
+cmd = "echo $FOLDER linux-64  && ls -l $GITHUB_WORKSPACE &&  ls -l '$FOLDER' && ls -l '$FOLDER/xeus/bin' && sed -i 's/jsArg.replace(\"\\*\",\"\")/jsArg.replaceAll(\"\\*\",\"\")/g' '$FOLDER/xeus/bin/xpython.js'"
 env = {FOLDER = "_output"}
 
 [target.osx-arm64.tasks.patch-xpython]
