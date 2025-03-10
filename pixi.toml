@@ -58,7 +58,7 @@ depends-on=["copy-roslib", "patch-xpython"]
 [feature.host.tasks.build]
 cmd = "jupyter lite build --XeusAddon.prefix=.pixi/envs/wasm --XeusAddon.empack_config=./empack_config.yaml" 
 depends-on = ["setup-wasm"]
-outputs = ["_output"]
+outputs = ["dist/"]
 inputs = ["pixi.lock", "files/"]
 
 [target.linux-64.tasks.patch-xpython]
