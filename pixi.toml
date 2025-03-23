@@ -48,7 +48,6 @@ python-libarchive-c = "*"
 # make sure that we have the WASM environment installed before building the app
 [feature.host.tasks]
 setup-wasm = { cmd = "pixi install -e wasm", inputs = ["pixi.lock"]  }
-build-dist = { cmd = "pixi run build --output-dir dist" }
 patch-dist = { cmd = "pixi run patch"}
 
 [feature.host.tasks.patch]
@@ -56,7 +55,7 @@ depends-on=["copy-roslib", "patch-xpython"]
 
 # build the jupyterlite app
 [feature.host.tasks.build]
-cmd = "jupyter lite build --XeusAddon.prefix=.pixi/envs/wasm --XeusAddon.empack_config=./empack_config.yaml" 
+cmd = "jupyter lite build --XeusAddon.prefix=.pixi/envs/wasm --XeusAddon.empack_config=./empack_config.yaml --output-dir dist" 
 depends-on = ["setup-wasm"]
 outputs = ["dist/"]
 inputs = ["pixi.lock", "files/"]

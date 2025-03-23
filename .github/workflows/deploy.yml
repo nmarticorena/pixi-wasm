@@ -17,7 +17,7 @@ jobs:
       - name: Setup pixi project
         uses: prefix-dev/setup-pixi@v0.8.1
       - name: Build dist
-        run: pixi run build-dist
+        run: pixi run build
       - name: Patch js files
         run: pixi run patch-dist
       - name: Upload artifact
