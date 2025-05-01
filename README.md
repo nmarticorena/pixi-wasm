@@ -1,15 +1,10 @@
-# Pixi ❤️ WASM
+# Pixi ❤️ WASM + ROS 2
 
-[Visit the deployed example](https://wolfv.github.io/pixi-wasm/)
+[Visit the deployed example](https://ros2wasm.github.io/pixi-ros2-wasm/)
 
+You can read more about this in our [**blog post: Pixi ❤️ WASM**](https://prefix.dev/blog/pixi_wasm) and [ROS2WASM paper](https://www.arxiv.org/abs/2409.09941).
 
-You can read more about this in our [**blog post: Pixi ❤️ WASM**](https://prefix.dev/blog/pixi_wasm).
-
-This is an example of how to use pixi with WebAssembly (thanks to [emscripten-forge](https://emscripten-forge.org)).
-
-Pixi is a conda-compatible package manager written in Rust. It uses the `pixi.toml` to define everything that goes into the environment, including tasks, dependencies, and more.
-
-It uses `jupyterlite` under the hood to bundle and serve a WASM environment that is created with pixi!
+Pixi is a conda-compatible package manager written in Rust. It uses the `pixi.toml` to define everything that goes into the environment, including tasks, dependencies, and more. It uses `jupyterlite` under the hood to bundle and serve a WASM environment that is created with pixi!
 
 ## Usage
 
